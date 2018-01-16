@@ -1,0 +1,1562 @@
+[
+    {
+        "merged": "C:\\Users\\barna\\Documents\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\barna\\.android\\build-cache\\1aea65aa913827f0734f76ee9fd69a9611effe5b\\output\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\barna\\Documents\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_expanded_controller_actionbar_bg_gradient_light.xml",
+        "source": "C:\\Users\\barna\\.android\\build-cache\\94d50b6b0da9a742c3d8def3398fc5871c99e9f1\\output\\res\\drawable\\cast_expanded_controller_actionbar_bg_gradient_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Michael Blackwell\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_cast_dark.xml",
+        "source": "C:\\Users\\Michael Blackwell\\.android\\build-cache\\1326288f4c952781499e6d7c1a727c081d5e73d8\\output\\res\\drawable\\mr_ic_cast_dark.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light.xml",
+        "source": "C:\\Users\\Kwasimoto\\.android\\build-cache\\94010153b3d40e96363d6a95b5300f51660cbf90\\output\\res\\drawable\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_play.xml",
+        "source": "C:\\Users\\Kwasimoto\\.android\\build-cache\\650574eb5b68832658cf7dec158b27503875e990\\output\\res\\drawable\\cast_ic_notification_play.xml"
+    },
+    {
+        "merged": "C:\\Users\\barna\\Documents\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
+        "source": "C:\\Users\\barna\\.android\\build-cache\\ca211ed3ca8060b55997b701315612f1666a0b50\\output\\res\\drawable\\design_fab_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Michael Blackwell\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_forward.xml",
+        "source": "C:\\Users\\Michael Blackwell\\.android\\build-cache\\33b9714a030f1eba0c8b37799f9268f1f498c8e7\\output\\res\\drawable\\cast_ic_notification_forward.xml"
+    },
+    {
+        "merged": "C:\\Users\\barna\\Documents\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\side_nav_bar.xml",
+        "source": "C:\\Users\\barna\\Documents\\ODUSafe\\app\\src\\main\\res\\drawable\\side_nav_bar.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_play_large.xml",
+        "source": "C:\\Users\\Kwasimoto\\.android\\build-cache\\650574eb5b68832658cf7dec158b27503875e990\\output\\res\\drawable\\cast_ic_mini_controller_play_large.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_cast_light.xml",
+        "source": "C:\\Users\\Kwasimoto\\.android\\build-cache\\1dee07da569deed6de668d09da5638835951a03e\\output\\res\\drawable\\mr_ic_cast_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\barna\\Documents\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_pause.xml",
+        "source": "C:\\Users\\barna\\.android\\build-cache\\94d50b6b0da9a742c3d8def3398fc5871c99e9f1\\output\\res\\drawable\\cast_ic_expanded_controller_pause.xml"
+    },
+    {
+        "merged": "C:\\Users\\Michael Blackwell\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_pause.xml",
+        "source": "C:\\Users\\Michael Blackwell\\.android\\build-cache\\33b9714a030f1eba0c8b37799f9268f1f498c8e7\\output\\res\\drawable\\cast_ic_expanded_controller_pause.xml"
+    },
+    {
+        "merged": "C:\\Users\\barna\\Documents\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_skip_ad_label_border.xml",
+        "source": "C:\\Users\\barna\\.android\\build-cache\\94d50b6b0da9a742c3d8def3398fc5871c99e9f1\\output\\res\\drawable\\cast_skip_ad_label_border.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_pause.xml",
+        "source": "C:\\Users\\Kwasimoto\\.android\\build-cache\\650574eb5b68832658cf7dec158b27503875e990\\output\\res\\drawable\\cast_ic_expanded_controller_pause.xml"
+    },
+    {
+        "merged": "C:\\Users\\Michael Blackwell\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_question_answer_black_24dp.xml",
+        "source": "C:\\Users\\Michael Blackwell\\ODUSafe\\app\\src\\main\\res\\drawable\\ic_question_answer_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\barna\\Documents\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_dialog_material_background_light.xml",
+        "source": "C:\\Users\\barna\\.android\\build-cache\\8d0a4105512e29679134bfcbd13979204c0293e4\\output\\res\\drawable\\mr_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_question_answer_black_24dp.xml",
+        "source": "D:\\AndroidStudio\\ODUSafe\\app\\src\\main\\res\\drawable\\ic_question_answer_black_24dp.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_refresh_black_24dp.xml",
+        "source": "D:\\AndroidStudio\\ODUSafe\\app\\src\\main\\res\\drawable\\ic_refresh_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\Michael Blackwell\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_skip_next.xml",
+        "source": "C:\\Users\\Michael Blackwell\\.android\\build-cache\\33b9714a030f1eba0c8b37799f9268f1f498c8e7\\output\\res\\drawable\\cast_ic_expanded_controller_skip_next.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_skip_next.xml",
+        "source": "C:\\Users\\Kwasimoto\\.android\\build-cache\\650574eb5b68832658cf7dec158b27503875e990\\output\\res\\drawable\\cast_ic_expanded_controller_skip_next.xml"
+    },
+    {
+        "merged": "C:\\Users\\Michael Blackwell\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark.xml",
+        "source": "C:\\Users\\Michael Blackwell\\.android\\build-cache\\fe8d455a78fe8b009583f766328822168ea1bdd7\\output\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\barna\\Documents\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\barna\\.android\\build-cache\\1aea65aa913827f0734f76ee9fd69a9611effe5b\\output\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_rewind30.xml",
+        "source": "C:\\Users\\Kwasimoto\\.android\\build-cache\\650574eb5b68832658cf7dec158b27503875e990\\output\\res\\drawable\\cast_ic_mini_controller_rewind30.xml"
+    },
+    {
+        "merged": "C:\\Users\\Michael Blackwell\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logo.png",
+        "source": "C:\\Users\\Michael Blackwell\\ODUSafe\\app\\src\\main\\res\\drawable\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\Michael Blackwell\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_close_light.xml",
+        "source": "C:\\Users\\Michael Blackwell\\.android\\build-cache\\1326288f4c952781499e6d7c1a727c081d5e73d8\\output\\res\\drawable\\mr_ic_close_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Michael Blackwell\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "C:\\Users\\Michael Blackwell\\.android\\build-cache\\ff8b80eb63ab778a034e6fb68dd4172cd1daed1f\\output\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Michael Blackwell\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\Michael Blackwell\\.android\\build-cache\\ff8b80eb63ab778a034e6fb68dd4172cd1daed1f\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_connecting_light.xml",
+        "source": "C:\\Users\\Kwasimoto\\.android\\build-cache\\1dee07da569deed6de668d09da5638835951a03e\\output\\res\\drawable\\mr_ic_media_route_connecting_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Michael Blackwell\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_stop.xml",
+        "source": "C:\\Users\\Michael Blackwell\\.android\\build-cache\\33b9714a030f1eba0c8b37799f9268f1f498c8e7\\output\\res\\drawable\\cast_ic_expanded_controller_stop.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_expanded_controller_bg_gradient_light.xml",
+        "source": "C:\\Users\\Kwasimoto\\.android\\build-cache\\650574eb5b68832658cf7dec158b27503875e990\\output\\res\\drawable\\cast_expanded_controller_bg_gradient_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Michael Blackwell\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_rewind30.xml",
+        "source": "C:\\Users\\Michael Blackwell\\.android\\build-cache\\33b9714a030f1eba0c8b37799f9268f1f498c8e7\\output\\res\\drawable\\cast_ic_notification_rewind30.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_dialog_material_background_dark.xml",
+        "source": "C:\\Users\\Kwasimoto\\.android\\build-cache\\1dee07da569deed6de668d09da5638835951a03e\\output\\res\\drawable\\mr_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light_focused.xml",
+        "source": "C:\\Users\\Kwasimoto\\.android\\build-cache\\94010153b3d40e96363d6a95b5300f51660cbf90\\output\\res\\drawable\\common_google_signin_btn_text_light_focused.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\Kwasimoto\\.android\\build-cache\\c3eefa010e06e6adea2c5e77976dc36d14765637\\output\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\barna\\Documents\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_expanded_controller_seekbar_thumb.xml",
+        "source": "C:\\Users\\barna\\.android\\build-cache\\94d50b6b0da9a742c3d8def3398fc5871c99e9f1\\output\\res\\drawable\\cast_expanded_controller_seekbar_thumb.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_connecting_dark.xml",
+        "source": "C:\\Users\\Kwasimoto\\.android\\build-cache\\1dee07da569deed6de668d09da5638835951a03e\\output\\res\\drawable\\mr_ic_media_route_connecting_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\barna\\Documents\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "C:\\Users\\barna\\.android\\build-cache\\1aea65aa913827f0734f76ee9fd69a9611effe5b\\output\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Michael Blackwell\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\Michael Blackwell\\.android\\build-cache\\ff8b80eb63ab778a034e6fb68dd4172cd1daed1f\\output\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\barna\\Documents\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
+        "source": "C:\\Users\\barna\\.android\\build-cache\\ca211ed3ca8060b55997b701315612f1666a0b50\\output\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\barna\\Documents\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_on_dark.xml",
+        "source": "C:\\Users\\barna\\.android\\build-cache\\8d0a4105512e29679134bfcbd13979204c0293e4\\output\\res\\drawable\\mr_ic_media_route_on_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Michael Blackwell\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_expanded_controller_seekbar_thumb.xml",
+        "source": "C:\\Users\\Michael Blackwell\\.android\\build-cache\\33b9714a030f1eba0c8b37799f9268f1f498c8e7\\output\\res\\drawable\\cast_expanded_controller_seekbar_thumb.xml"
+    },
+    {
+        "merged": "C:\\Users\\barna\\Documents\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\barna\\.android\\build-cache\\1aea65aa913827f0734f76ee9fd69a9611effe5b\\output\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Michael Blackwell\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_dialog_material_background_light.xml",
+        "source": "C:\\Users\\Michael Blackwell\\.android\\build-cache\\1326288f4c952781499e6d7c1a727c081d5e73d8\\output\\res\\drawable\\mr_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\barna\\Documents\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_play.xml",
+        "source": "C:\\Users\\barna\\.android\\build-cache\\94d50b6b0da9a742c3d8def3398fc5871c99e9f1\\output\\res\\drawable\\cast_ic_mini_controller_play.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\lion.jpg",
+        "source": "D:\\AndroidStudio\\ODUSafe\\app\\src\\main\\res\\drawable\\lion.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Michael Blackwell\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_small_icon.xml",
+        "source": "C:\\Users\\Michael Blackwell\\.android\\build-cache\\33b9714a030f1eba0c8b37799f9268f1f498c8e7\\output\\res\\drawable\\cast_ic_notification_small_icon.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_forward10.xml",
+        "source": "C:\\Users\\Kwasimoto\\.android\\build-cache\\650574eb5b68832658cf7dec158b27503875e990\\output\\res\\drawable\\cast_ic_notification_forward10.xml"
+    },
+    {
+        "merged": "C:\\Users\\barna\\Documents\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_forward30.xml",
+        "source": "C:\\Users\\barna\\.android\\build-cache\\94d50b6b0da9a742c3d8def3398fc5871c99e9f1\\output\\res\\drawable\\cast_ic_notification_forward30.xml"
+    },
+    {
+        "merged": "C:\\Users\\Michael Blackwell\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\lion.jpg",
+        "source": "C:\\Users\\Michael Blackwell\\ODUSafe\\app\\src\\main\\res\\drawable\\lion.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Michael Blackwell\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_rewind10.xml",
+        "source": "C:\\Users\\Michael Blackwell\\.android\\build-cache\\33b9714a030f1eba0c8b37799f9268f1f498c8e7\\output\\res\\drawable\\cast_ic_notification_rewind10.xml"
+    },
+    {
+        "merged": "C:\\Users\\barna\\Documents\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_close_black_24dp.xml",
+        "source": "C:\\Users\\barna\\Documents\\ODUSafe\\app\\src\\main\\res\\drawable\\ic_close_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\barna\\Documents\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_pause.xml",
+        "source": "C:\\Users\\barna\\.android\\build-cache\\94d50b6b0da9a742c3d8def3398fc5871c99e9f1\\output\\res\\drawable\\cast_ic_mini_controller_pause.xml"
+    },
+    {
+        "merged": "C:\\Users\\Michael Blackwell\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "C:\\Users\\Michael Blackwell\\.android\\build-cache\\ff8b80eb63ab778a034e6fb68dd4172cd1daed1f\\output\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\odubldg.jpg",
+        "source": "D:\\AndroidStudio\\ODUSafe\\app\\src\\main\\res\\drawable\\odubldg.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Michael Blackwell\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "C:\\Users\\Michael Blackwell\\.android\\build-cache\\ff8b80eb63ab778a034e6fb68dd4172cd1daed1f\\output\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\Michael Blackwell\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_pause_dark.xml",
+        "source": "C:\\Users\\Michael Blackwell\\.android\\build-cache\\1326288f4c952781499e6d7c1a727c081d5e73d8\\output\\res\\drawable\\mr_ic_pause_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Michael Blackwell\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_mini_controller_progress_drawable.xml",
+        "source": "C:\\Users\\Michael Blackwell\\.android\\build-cache\\33b9714a030f1eba0c8b37799f9268f1f498c8e7\\output\\res\\drawable\\cast_mini_controller_progress_drawable.xml"
+    },
+    {
+        "merged": "C:\\Users\\barna\\Documents\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_on_light.xml",
+        "source": "C:\\Users\\barna\\.android\\build-cache\\8d0a4105512e29679134bfcbd13979204c0293e4\\output\\res\\drawable\\mr_ic_media_route_on_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\barna\\Documents\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_cast_light.xml",
+        "source": "C:\\Users\\barna\\.android\\build-cache\\8d0a4105512e29679134bfcbd13979204c0293e4\\output\\res\\drawable\\mr_ic_cast_light.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_attach_file_black_24dp.xml",
+        "source": "D:\\AndroidStudio\\ODUSafe\\app\\src\\main\\res\\drawable\\ic_attach_file_black_24dp.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_on_light.xml",
+        "source": "C:\\Users\\Kwasimoto\\.android\\build-cache\\1dee07da569deed6de668d09da5638835951a03e\\output\\res\\drawable\\mr_ic_media_route_on_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\barna\\Documents\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light.xml",
+        "source": "C:\\Users\\barna\\.android\\build-cache\\24447a32cc59944792f53ddfa03290fbd755bf83\\output\\res\\drawable\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Michael Blackwell\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_pause_large.xml",
+        "source": "C:\\Users\\Michael Blackwell\\.android\\build-cache\\33b9714a030f1eba0c8b37799f9268f1f498c8e7\\output\\res\\drawable\\cast_ic_mini_controller_pause_large.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_notifications_black_24dp.xml",
+        "source": "D:\\AndroidStudio\\ODUSafe\\app\\src\\main\\res\\drawable\\ic_notifications_black_24dp.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_play.xml",
+        "source": "C:\\Users\\Kwasimoto\\.android\\build-cache\\650574eb5b68832658cf7dec158b27503875e990\\output\\res\\drawable\\cast_ic_mini_controller_play.xml"
+    },
+    {
+        "merged": "C:\\Users\\barna\\Documents\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_cast_dark.xml",
+        "source": "C:\\Users\\barna\\.android\\build-cache\\8d0a4105512e29679134bfcbd13979204c0293e4\\output\\res\\drawable\\mr_ic_cast_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\barna\\Documents\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_mono_light.xml",
+        "source": "C:\\Users\\barna\\.android\\build-cache\\8d0a4105512e29679134bfcbd13979204c0293e4\\output\\res\\drawable\\mr_ic_media_route_mono_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Michael Blackwell\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\Michael Blackwell\\.android\\build-cache\\ff8b80eb63ab778a034e6fb68dd4172cd1daed1f\\output\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\Kwasimoto\\.android\\build-cache\\c3eefa010e06e6adea2c5e77976dc36d14765637\\output\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Michael Blackwell\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_mute.xml",
+        "source": "C:\\Users\\Michael Blackwell\\.android\\build-cache\\33b9714a030f1eba0c8b37799f9268f1f498c8e7\\output\\res\\drawable\\cast_ic_expanded_controller_mute.xml"
+    },
+    {
+        "merged": "C:\\Users\\Michael Blackwell\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\Michael Blackwell\\.android\\build-cache\\ff8b80eb63ab778a034e6fb68dd4172cd1daed1f\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\Kwasimoto\\.android\\build-cache\\94010153b3d40e96363d6a95b5300f51660cbf90\\output\\res\\drawable\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Michael Blackwell\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_forward10.xml",
+        "source": "C:\\Users\\Michael Blackwell\\.android\\build-cache\\33b9714a030f1eba0c8b37799f9268f1f498c8e7\\output\\res\\drawable\\cast_ic_notification_forward10.xml"
+    },
+    {
+        "merged": "C:\\Users\\Michael Blackwell\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_mono_dark.xml",
+        "source": "C:\\Users\\Michael Blackwell\\.android\\build-cache\\1326288f4c952781499e6d7c1a727c081d5e73d8\\output\\res\\drawable\\mr_ic_media_route_mono_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Michael Blackwell\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
+        "source": "C:\\Users\\Michael Blackwell\\.android\\build-cache\\44f801d3c86d39d6c86a27c40f0cb097ec3e87bc\\output\\res\\drawable\\design_fab_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\barna\\Documents\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_play_dark.xml",
+        "source": "C:\\Users\\barna\\.android\\build-cache\\8d0a4105512e29679134bfcbd13979204c0293e4\\output\\res\\drawable\\mr_ic_play_dark.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_forward30.xml",
+        "source": "C:\\Users\\Kwasimoto\\.android\\build-cache\\650574eb5b68832658cf7dec158b27503875e990\\output\\res\\drawable\\cast_ic_mini_controller_forward30.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\Kwasimoto\\.android\\build-cache\\c3eefa010e06e6adea2c5e77976dc36d14765637\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\barna\\Documents\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_skip_prev.xml",
+        "source": "C:\\Users\\barna\\.android\\build-cache\\94d50b6b0da9a742c3d8def3398fc5871c99e9f1\\output\\res\\drawable\\cast_ic_notification_skip_prev.xml"
+    },
+    {
+        "merged": "C:\\Users\\Michael Blackwell\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\odubldg.jpg",
+        "source": "C:\\Users\\Michael Blackwell\\ODUSafe\\app\\src\\main\\res\\drawable\\odubldg.jpg"
+    },
+    {
+        "merged": "C:\\Users\\barna\\Documents\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_mini_controller_progress_drawable.xml",
+        "source": "C:\\Users\\barna\\.android\\build-cache\\94d50b6b0da9a742c3d8def3398fc5871c99e9f1\\output\\res\\drawable\\cast_mini_controller_progress_drawable.xml"
+    },
+    {
+        "merged": "C:\\Users\\Michael Blackwell\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\Michael Blackwell\\.android\\build-cache\\ff8b80eb63ab778a034e6fb68dd4172cd1daed1f\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\barna\\Documents\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\barna\\.android\\build-cache\\1aea65aa913827f0734f76ee9fd69a9611effe5b\\output\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\barna\\Documents\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\barna\\.android\\build-cache\\1aea65aa913827f0734f76ee9fd69a9611effe5b\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Michael Blackwell\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\Michael Blackwell\\.android\\build-cache\\ff8b80eb63ab778a034e6fb68dd4172cd1daed1f\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\barna\\Documents\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
+        "source": "C:\\Users\\barna\\.android\\build-cache\\1aea65aa913827f0734f76ee9fd69a9611effe5b\\output\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_pause_large.xml",
+        "source": "C:\\Users\\Kwasimoto\\.android\\build-cache\\650574eb5b68832658cf7dec158b27503875e990\\output\\res\\drawable\\cast_ic_mini_controller_pause_large.xml"
+    },
+    {
+        "merged": "C:\\Users\\barna\\Documents\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\barna\\.android\\build-cache\\1aea65aa913827f0734f76ee9fd69a9611effe5b\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\navigation_empty_icon.xml",
+        "source": "C:\\Users\\Kwasimoto\\.android\\build-cache\\0139664ceaef0b32c34c4ff88a96811c69d8e50f\\output\\res\\drawable\\navigation_empty_icon.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\Kwasimoto\\.android\\build-cache\\c3eefa010e06e6adea2c5e77976dc36d14765637\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\smalllogo.png",
+        "source": "D:\\AndroidStudio\\ODUSafe\\app\\src\\main\\res\\drawable\\smalllogo.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\panicheader.png",
+        "source": "D:\\AndroidStudio\\ODUSafe\\app\\src\\main\\res\\drawable\\panicheader.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "C:\\Users\\Kwasimoto\\.android\\build-cache\\c3eefa010e06e6adea2c5e77976dc36d14765637\\output\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "C:\\Users\\Kwasimoto\\.android\\build-cache\\c3eefa010e06e6adea2c5e77976dc36d14765637\\output\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_mono_light.xml",
+        "source": "C:\\Users\\Kwasimoto\\.android\\build-cache\\1dee07da569deed6de668d09da5638835951a03e\\output\\res\\drawable\\mr_ic_media_route_mono_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\barna\\Documents\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "C:\\Users\\barna\\.android\\build-cache\\1aea65aa913827f0734f76ee9fd69a9611effe5b\\output\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\barna\\Documents\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_collapse.xml",
+        "source": "C:\\Users\\barna\\.android\\build-cache\\8d0a4105512e29679134bfcbd13979204c0293e4\\output\\res\\drawable\\ic_collapse.xml"
+    },
+    {
+        "merged": "C:\\Users\\Michael Blackwell\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_forward30.xml",
+        "source": "C:\\Users\\Michael Blackwell\\.android\\build-cache\\33b9714a030f1eba0c8b37799f9268f1f498c8e7\\output\\res\\drawable\\cast_ic_mini_controller_forward30.xml"
+    },
+    {
+        "merged": "C:\\Users\\Michael Blackwell\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_skip_previous.xml",
+        "source": "C:\\Users\\Michael Blackwell\\.android\\build-cache\\33b9714a030f1eba0c8b37799f9268f1f498c8e7\\output\\res\\drawable\\cast_ic_expanded_controller_skip_previous.xml"
+    },
+    {
+        "merged": "C:\\Users\\Michael Blackwell\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_cast_light.xml",
+        "source": "C:\\Users\\Michael Blackwell\\.android\\build-cache\\1326288f4c952781499e6d7c1a727c081d5e73d8\\output\\res\\drawable\\mr_ic_cast_light.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_close_black_24dp.xml",
+        "source": "D:\\AndroidStudio\\ODUSafe\\app\\src\\main\\res\\drawable\\ic_close_black_24dp.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_stop_live_stream.xml",
+        "source": "C:\\Users\\Kwasimoto\\.android\\build-cache\\650574eb5b68832658cf7dec158b27503875e990\\output\\res\\drawable\\cast_ic_notification_stop_live_stream.xml"
+    },
+    {
+        "merged": "C:\\Users\\Michael Blackwell\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_expanded_controller_bg_gradient_light.xml",
+        "source": "C:\\Users\\Michael Blackwell\\.android\\build-cache\\33b9714a030f1eba0c8b37799f9268f1f498c8e7\\output\\res\\drawable\\cast_expanded_controller_bg_gradient_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\barna\\Documents\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\barna\\.android\\build-cache\\1aea65aa913827f0734f76ee9fd69a9611effe5b\\output\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\barna\\Documents\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_question_answer_black_24dp.xml",
+        "source": "C:\\Users\\barna\\Documents\\ODUSafe\\app\\src\\main\\res\\drawable\\ic_question_answer_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\Michael Blackwell\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_stop_large.xml",
+        "source": "C:\\Users\\Michael Blackwell\\.android\\build-cache\\33b9714a030f1eba0c8b37799f9268f1f498c8e7\\output\\res\\drawable\\cast_ic_mini_controller_stop_large.xml"
+    },
+    {
+        "merged": "C:\\Users\\barna\\Documents\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_mute.xml",
+        "source": "C:\\Users\\barna\\.android\\build-cache\\94d50b6b0da9a742c3d8def3398fc5871c99e9f1\\output\\res\\drawable\\cast_ic_mini_controller_mute.xml"
+    },
+    {
+        "merged": "C:\\Users\\Michael Blackwell\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_dialog_material_background_dark.xml",
+        "source": "C:\\Users\\Michael Blackwell\\.android\\build-cache\\1326288f4c952781499e6d7c1a727c081d5e73d8\\output\\res\\drawable\\mr_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
+        "source": "C:\\Users\\Kwasimoto\\.android\\build-cache\\0139664ceaef0b32c34c4ff88a96811c69d8e50f\\output\\res\\drawable\\design_fab_background.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_create_black_24dp.xml",
+        "source": "D:\\AndroidStudio\\ODUSafe\\app\\src\\main\\res\\drawable\\ic_create_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\barna\\Documents\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_audiotrack_light.xml",
+        "source": "C:\\Users\\barna\\.android\\build-cache\\8d0a4105512e29679134bfcbd13979204c0293e4\\output\\res\\drawable\\mr_ic_audiotrack_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\barna\\Documents\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\odubldg.jpg",
+        "source": "C:\\Users\\barna\\Documents\\ODUSafe\\app\\src\\main\\res\\drawable\\odubldg.jpg"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_expanded_controller_seekbar_thumb.xml",
+        "source": "C:\\Users\\Kwasimoto\\.android\\build-cache\\650574eb5b68832658cf7dec158b27503875e990\\output\\res\\drawable\\cast_expanded_controller_seekbar_thumb.xml"
+    },
+    {
+        "merged": "C:\\Users\\Michael Blackwell\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_refresh_black_24dp.xml",
+        "source": "C:\\Users\\Michael Blackwell\\ODUSafe\\app\\src\\main\\res\\drawable\\ic_refresh_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\Michael Blackwell\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_expand.xml",
+        "source": "C:\\Users\\Michael Blackwell\\.android\\build-cache\\1326288f4c952781499e6d7c1a727c081d5e73d8\\output\\res\\drawable\\ic_expand.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\roundedcancelbutton.xml",
+        "source": "D:\\AndroidStudio\\ODUSafe\\app\\src\\main\\res\\drawable\\roundedcancelbutton.xml"
+    },
+    {
+        "merged": "C:\\Users\\Michael Blackwell\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_skip_ad_label_border.xml",
+        "source": "C:\\Users\\Michael Blackwell\\.android\\build-cache\\33b9714a030f1eba0c8b37799f9268f1f498c8e7\\output\\res\\drawable\\cast_skip_ad_label_border.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\Kwasimoto\\.android\\build-cache\\c3eefa010e06e6adea2c5e77976dc36d14765637\\output\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_phone_in_talk_black_24dp.xml",
+        "source": "D:\\AndroidStudio\\ODUSafe\\app\\src\\main\\res\\drawable\\ic_phone_in_talk_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\barna\\Documents\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_rewind30.xml",
+        "source": "C:\\Users\\barna\\.android\\build-cache\\94d50b6b0da9a742c3d8def3398fc5871c99e9f1\\output\\res\\drawable\\cast_ic_notification_rewind30.xml"
+    },
+    {
+        "merged": "C:\\Users\\barna\\Documents\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_pause.xml",
+        "source": "C:\\Users\\barna\\.android\\build-cache\\94d50b6b0da9a742c3d8def3398fc5871c99e9f1\\output\\res\\drawable\\cast_ic_notification_pause.xml"
+    },
+    {
+        "merged": "C:\\Users\\barna\\Documents\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_close_light.xml",
+        "source": "C:\\Users\\barna\\.android\\build-cache\\8d0a4105512e29679134bfcbd13979204c0293e4\\output\\res\\drawable\\mr_ic_close_light.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_forward30.xml",
+        "source": "C:\\Users\\Kwasimoto\\.android\\build-cache\\650574eb5b68832658cf7dec158b27503875e990\\output\\res\\drawable\\cast_ic_notification_forward30.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_rewind.xml",
+        "source": "C:\\Users\\Kwasimoto\\.android\\build-cache\\650574eb5b68832658cf7dec158b27503875e990\\output\\res\\drawable\\cast_ic_notification_rewind.xml"
+    },
+    {
+        "merged": "C:\\Users\\Michael Blackwell\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_disconnect.xml",
+        "source": "C:\\Users\\Michael Blackwell\\.android\\build-cache\\33b9714a030f1eba0c8b37799f9268f1f498c8e7\\output\\res\\drawable\\cast_ic_notification_disconnect.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_connecting.xml",
+        "source": "C:\\Users\\Kwasimoto\\.android\\build-cache\\e3fbb6757003ccf7e9f92b2a665f9ea1a9838dbb\\output\\res\\drawable\\cast_ic_notification_connecting.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\Kwasimoto\\.android\\build-cache\\c3eefa010e06e6adea2c5e77976dc36d14765637\\output\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Michael Blackwell\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\panicheader.png",
+        "source": "C:\\Users\\Michael Blackwell\\ODUSafe\\app\\src\\main\\res\\drawable\\panicheader.png"
+    },
+    {
+        "merged": "C:\\Users\\barna\\Documents\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_stop_live_stream.xml",
+        "source": "C:\\Users\\barna\\.android\\build-cache\\94d50b6b0da9a742c3d8def3398fc5871c99e9f1\\output\\res\\drawable\\cast_ic_notification_stop_live_stream.xml"
+    },
+    {
+        "merged": "C:\\Users\\Michael Blackwell\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\Michael Blackwell\\.android\\build-cache\\ff8b80eb63ab778a034e6fb68dd4172cd1daed1f\\output\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "C:\\Users\\Kwasimoto\\.android\\build-cache\\c3eefa010e06e6adea2c5e77976dc36d14765637\\output\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_dialog_material_background_light.xml",
+        "source": "C:\\Users\\Kwasimoto\\.android\\build-cache\\1dee07da569deed6de668d09da5638835951a03e\\output\\res\\drawable\\mr_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "C:\\Users\\Kwasimoto\\.android\\build-cache\\c3eefa010e06e6adea2c5e77976dc36d14765637\\output\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\Kwasimoto\\.android\\build-cache\\c3eefa010e06e6adea2c5e77976dc36d14765637\\output\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "C:\\Users\\barna\\Documents\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\barna\\.android\\build-cache\\1aea65aa913827f0734f76ee9fd69a9611effe5b\\output\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "C:\\Users\\barna\\Documents\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_phone_in_talk_black_24dp.xml",
+        "source": "C:\\Users\\barna\\Documents\\ODUSafe\\app\\src\\main\\res\\drawable\\ic_phone_in_talk_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\barna\\Documents\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logo.png",
+        "source": "C:\\Users\\barna\\Documents\\ODUSafe\\app\\src\\main\\res\\drawable\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\barna\\Documents\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_stop.xml",
+        "source": "C:\\Users\\barna\\.android\\build-cache\\94d50b6b0da9a742c3d8def3398fc5871c99e9f1\\output\\res\\drawable\\cast_ic_expanded_controller_stop.xml"
+    },
+    {
+        "merged": "C:\\Users\\Michael Blackwell\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_map_black_24dp.xml",
+        "source": "C:\\Users\\Michael Blackwell\\ODUSafe\\app\\src\\main\\res\\drawable\\ic_map_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\barna\\Documents\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_stop.xml",
+        "source": "C:\\Users\\barna\\.android\\build-cache\\94d50b6b0da9a742c3d8def3398fc5871c99e9f1\\output\\res\\drawable\\cast_ic_mini_controller_stop.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\Kwasimoto\\.android\\build-cache\\c3eefa010e06e6adea2c5e77976dc36d14765637\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\barna\\Documents\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_warning_black_24dp.xml",
+        "source": "C:\\Users\\barna\\Documents\\ODUSafe\\app\\src\\main\\res\\drawable\\ic_warning_black_24dp.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_skip_next.xml",
+        "source": "C:\\Users\\Kwasimoto\\.android\\build-cache\\650574eb5b68832658cf7dec158b27503875e990\\output\\res\\drawable\\cast_ic_notification_skip_next.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_border_color_black_24dp.xml",
+        "source": "D:\\AndroidStudio\\ODUSafe\\app\\src\\main\\res\\drawable\\ic_border_color_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\Michael Blackwell\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_play_large.xml",
+        "source": "C:\\Users\\Michael Blackwell\\.android\\build-cache\\33b9714a030f1eba0c8b37799f9268f1f498c8e7\\output\\res\\drawable\\cast_ic_mini_controller_play_large.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_mute.xml",
+        "source": "C:\\Users\\Kwasimoto\\.android\\build-cache\\650574eb5b68832658cf7dec158b27503875e990\\output\\res\\drawable\\cast_ic_mini_controller_mute.xml"
+    },
+    {
+        "merged": "C:\\Users\\Michael Blackwell\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "C:\\Users\\Michael Blackwell\\.android\\build-cache\\ff8b80eb63ab778a034e6fb68dd4172cd1daed1f\\output\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Michael Blackwell\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light_focused.xml",
+        "source": "C:\\Users\\Michael Blackwell\\.android\\build-cache\\fe8d455a78fe8b009583f766328822168ea1bdd7\\output\\res\\drawable\\common_google_signin_btn_icon_light_focused.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_rewind10.xml",
+        "source": "C:\\Users\\Kwasimoto\\.android\\build-cache\\650574eb5b68832658cf7dec158b27503875e990\\output\\res\\drawable\\cast_ic_notification_rewind10.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\Kwasimoto\\.android\\build-cache\\c3eefa010e06e6adea2c5e77976dc36d14765637\\output\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\barna\\Documents\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\barna\\.android\\build-cache\\1aea65aa913827f0734f76ee9fd69a9611effe5b\\output\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "C:\\Users\\Kwasimoto\\.android\\build-cache\\c3eefa010e06e6adea2c5e77976dc36d14765637\\output\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_pause_dark.xml",
+        "source": "C:\\Users\\Kwasimoto\\.android\\build-cache\\1dee07da569deed6de668d09da5638835951a03e\\output\\res\\drawable\\mr_ic_pause_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\barna\\Documents\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_create_black_24dp.xml",
+        "source": "C:\\Users\\barna\\Documents\\ODUSafe\\app\\src\\main\\res\\drawable\\ic_create_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\barna\\Documents\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_rewind10.xml",
+        "source": "C:\\Users\\barna\\.android\\build-cache\\94d50b6b0da9a742c3d8def3398fc5871c99e9f1\\output\\res\\drawable\\cast_ic_notification_rewind10.xml"
+    },
+    {
+        "merged": "C:\\Users\\barna\\Documents\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\barna\\.android\\build-cache\\1aea65aa913827f0734f76ee9fd69a9611effe5b\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\barna\\Documents\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_pause_large.xml",
+        "source": "C:\\Users\\barna\\.android\\build-cache\\94d50b6b0da9a742c3d8def3398fc5871c99e9f1\\output\\res\\drawable\\cast_ic_mini_controller_pause_large.xml"
+    },
+    {
+        "merged": "C:\\Users\\Michael Blackwell\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_closed_caption.xml",
+        "source": "C:\\Users\\Michael Blackwell\\.android\\build-cache\\33b9714a030f1eba0c8b37799f9268f1f498c8e7\\output\\res\\drawable\\cast_ic_mini_controller_closed_caption.xml"
+    },
+    {
+        "merged": "C:\\Users\\barna\\Documents\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_expanded_controller_seekbar_track.xml",
+        "source": "C:\\Users\\barna\\.android\\build-cache\\94d50b6b0da9a742c3d8def3398fc5871c99e9f1\\output\\res\\drawable\\cast_expanded_controller_seekbar_track.xml"
+    },
+    {
+        "merged": "C:\\Users\\barna\\Documents\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "C:\\Users\\barna\\.android\\build-cache\\1aea65aa913827f0734f76ee9fd69a9611effe5b\\output\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_pause_light.xml",
+        "source": "C:\\Users\\Kwasimoto\\.android\\build-cache\\1dee07da569deed6de668d09da5638835951a03e\\output\\res\\drawable\\mr_ic_pause_light.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\Kwasimoto\\.android\\build-cache\\c3eefa010e06e6adea2c5e77976dc36d14765637\\output\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\barna\\Documents\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "C:\\Users\\barna\\.android\\build-cache\\1aea65aa913827f0734f76ee9fd69a9611effe5b\\output\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Michael Blackwell\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\Michael Blackwell\\.android\\build-cache\\ff8b80eb63ab778a034e6fb68dd4172cd1daed1f\\output\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\Kwasimoto\\.android\\build-cache\\c3eefa010e06e6adea2c5e77976dc36d14765637\\output\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\barna\\Documents\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_play_light.xml",
+        "source": "C:\\Users\\barna\\.android\\build-cache\\8d0a4105512e29679134bfcbd13979204c0293e4\\output\\res\\drawable\\mr_ic_play_light.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_small_icon.xml",
+        "source": "C:\\Users\\Kwasimoto\\.android\\build-cache\\650574eb5b68832658cf7dec158b27503875e990\\output\\res\\drawable\\cast_ic_notification_small_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\barna\\Documents\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_border_color_black_24dp.xml",
+        "source": "C:\\Users\\barna\\Documents\\ODUSafe\\app\\src\\main\\res\\drawable\\ic_border_color_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\barna\\Documents\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_closed_caption.xml",
+        "source": "C:\\Users\\barna\\.android\\build-cache\\94d50b6b0da9a742c3d8def3398fc5871c99e9f1\\output\\res\\drawable\\cast_ic_mini_controller_closed_caption.xml"
+    },
+    {
+        "merged": "C:\\Users\\barna\\Documents\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\barna\\.android\\build-cache\\1aea65aa913827f0734f76ee9fd69a9611effe5b\\output\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\barna\\Documents\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_rewind.xml",
+        "source": "C:\\Users\\barna\\.android\\build-cache\\94d50b6b0da9a742c3d8def3398fc5871c99e9f1\\output\\res\\drawable\\cast_ic_notification_rewind.xml"
+    },
+    {
+        "merged": "C:\\Users\\Michael Blackwell\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light.xml",
+        "source": "C:\\Users\\Michael Blackwell\\.android\\build-cache\\fe8d455a78fe8b009583f766328822168ea1bdd7\\output\\res\\drawable\\common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Michael Blackwell\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_skip_next.xml",
+        "source": "C:\\Users\\Michael Blackwell\\.android\\build-cache\\33b9714a030f1eba0c8b37799f9268f1f498c8e7\\output\\res\\drawable\\cast_ic_mini_controller_skip_next.xml"
+    },
+    {
+        "merged": "C:\\Users\\barna\\Documents\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\barna\\.android\\build-cache\\24447a32cc59944792f53ddfa03290fbd755bf83\\output\\res\\drawable\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Michael Blackwell\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_expanded_controller_actionbar_bg_gradient_light.xml",
+        "source": "C:\\Users\\Michael Blackwell\\.android\\build-cache\\33b9714a030f1eba0c8b37799f9268f1f498c8e7\\output\\res\\drawable\\cast_expanded_controller_actionbar_bg_gradient_light.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_stop.xml",
+        "source": "C:\\Users\\Kwasimoto\\.android\\build-cache\\650574eb5b68832658cf7dec158b27503875e990\\output\\res\\drawable\\cast_ic_mini_controller_stop.xml"
+    },
+    {
+        "merged": "C:\\Users\\Michael Blackwell\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
+        "source": "C:\\Users\\Michael Blackwell\\.android\\build-cache\\44f801d3c86d39d6c86a27c40f0cb097ec3e87bc\\output\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\barna\\Documents\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\smalllogo.png",
+        "source": "C:\\Users\\barna\\Documents\\ODUSafe\\app\\src\\main\\res\\drawable\\smalllogo.png"
+    },
+    {
+        "merged": "C:\\Users\\barna\\Documents\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_skip_prev.xml",
+        "source": "C:\\Users\\barna\\.android\\build-cache\\94d50b6b0da9a742c3d8def3398fc5871c99e9f1\\output\\res\\drawable\\cast_ic_mini_controller_skip_prev.xml"
+    },
+    {
+        "merged": "C:\\Users\\barna\\Documents\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_mute.xml",
+        "source": "C:\\Users\\barna\\.android\\build-cache\\94d50b6b0da9a742c3d8def3398fc5871c99e9f1\\output\\res\\drawable\\cast_ic_expanded_controller_mute.xml"
+    },
+    {
+        "merged": "C:\\Users\\Michael Blackwell\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_warning_black_24dp.xml",
+        "source": "C:\\Users\\Michael Blackwell\\ODUSafe\\app\\src\\main\\res\\drawable\\ic_warning_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\Michael Blackwell\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_connecting_light.xml",
+        "source": "C:\\Users\\Michael Blackwell\\.android\\build-cache\\1326288f4c952781499e6d7c1a727c081d5e73d8\\output\\res\\drawable\\mr_ic_media_route_connecting_light.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_rewind30.xml",
+        "source": "C:\\Users\\Kwasimoto\\.android\\build-cache\\650574eb5b68832658cf7dec158b27503875e990\\output\\res\\drawable\\cast_ic_notification_rewind30.xml"
+    },
+    {
+        "merged": "C:\\Users\\Michael Blackwell\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\roundedcancelbutton.xml",
+        "source": "C:\\Users\\Michael Blackwell\\ODUSafe\\app\\src\\main\\res\\drawable\\roundedcancelbutton.xml"
+    },
+    {
+        "merged": "C:\\Users\\barna\\Documents\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_rewind30.xml",
+        "source": "C:\\Users\\barna\\.android\\build-cache\\94d50b6b0da9a742c3d8def3398fc5871c99e9f1\\output\\res\\drawable\\cast_ic_expanded_controller_rewind30.xml"
+    },
+    {
+        "merged": "C:\\Users\\Michael Blackwell\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_on_light.xml",
+        "source": "C:\\Users\\Michael Blackwell\\.android\\build-cache\\1326288f4c952781499e6d7c1a727c081d5e73d8\\output\\res\\drawable\\mr_ic_media_route_on_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\barna\\Documents\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\barna\\.android\\build-cache\\1aea65aa913827f0734f76ee9fd69a9611effe5b\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_home_black_24dp.xml",
+        "source": "D:\\AndroidStudio\\ODUSafe\\app\\src\\main\\res\\drawable\\ic_home_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\barna\\Documents\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_connecting_dark.xml",
+        "source": "C:\\Users\\barna\\.android\\build-cache\\8d0a4105512e29679134bfcbd13979204c0293e4\\output\\res\\drawable\\mr_ic_media_route_connecting_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\barna\\Documents\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_forward30.xml",
+        "source": "C:\\Users\\barna\\.android\\build-cache\\94d50b6b0da9a742c3d8def3398fc5871c99e9f1\\output\\res\\drawable\\cast_ic_expanded_controller_forward30.xml"
+    },
+    {
+        "merged": "C:\\Users\\barna\\Documents\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_skip_previous.xml",
+        "source": "C:\\Users\\barna\\.android\\build-cache\\94d50b6b0da9a742c3d8def3398fc5871c99e9f1\\output\\res\\drawable\\cast_ic_expanded_controller_skip_previous.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_rewind30.xml",
+        "source": "C:\\Users\\Kwasimoto\\.android\\build-cache\\650574eb5b68832658cf7dec158b27503875e990\\output\\res\\drawable\\cast_ic_expanded_controller_rewind30.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_forward30.xml",
+        "source": "C:\\Users\\Kwasimoto\\.android\\build-cache\\650574eb5b68832658cf7dec158b27503875e990\\output\\res\\drawable\\cast_ic_expanded_controller_forward30.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_stop_large.xml",
+        "source": "C:\\Users\\Kwasimoto\\.android\\build-cache\\650574eb5b68832658cf7dec158b27503875e990\\output\\res\\drawable\\cast_ic_mini_controller_stop_large.xml"
+    },
+    {
+        "merged": "C:\\Users\\barna\\Documents\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark.xml",
+        "source": "C:\\Users\\barna\\.android\\build-cache\\24447a32cc59944792f53ddfa03290fbd755bf83\\output\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_dashboard_black_24dp.xml",
+        "source": "D:\\AndroidStudio\\ODUSafe\\app\\src\\main\\res\\drawable\\ic_dashboard_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\Michael Blackwell\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light.xml",
+        "source": "C:\\Users\\Michael Blackwell\\.android\\build-cache\\fe8d455a78fe8b009583f766328822168ea1bdd7\\output\\res\\drawable\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Michael Blackwell\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\Michael Blackwell\\.android\\build-cache\\ff8b80eb63ab778a034e6fb68dd4172cd1daed1f\\output\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\barna\\Documents\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_connecting.xml",
+        "source": "C:\\Users\\barna\\.android\\build-cache\\b7afe5c817c8c87da82c451699545ee472b7b641\\output\\res\\drawable\\cast_ic_notification_connecting.xml"
+    },
+    {
+        "merged": "C:\\Users\\barna\\Documents\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\barna\\.android\\build-cache\\1aea65aa913827f0734f76ee9fd69a9611effe5b\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\barna\\Documents\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_closed_caption.xml",
+        "source": "C:\\Users\\barna\\.android\\build-cache\\94d50b6b0da9a742c3d8def3398fc5871c99e9f1\\output\\res\\drawable\\cast_ic_expanded_controller_closed_caption.xml"
+    },
+    {
+        "merged": "C:\\Users\\barna\\Documents\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\barna\\.android\\build-cache\\1aea65aa913827f0734f76ee9fd69a9611effe5b\\output\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Michael Blackwell\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_play_light.xml",
+        "source": "C:\\Users\\Michael Blackwell\\.android\\build-cache\\1326288f4c952781499e6d7c1a727c081d5e73d8\\output\\res\\drawable\\mr_ic_play_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Michael Blackwell\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_attach_file_black_24dp.xml",
+        "source": "C:\\Users\\Michael Blackwell\\ODUSafe\\app\\src\\main\\res\\drawable\\ic_attach_file_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\Michael Blackwell\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark_focused.xml",
+        "source": "C:\\Users\\Michael Blackwell\\.android\\build-cache\\fe8d455a78fe8b009583f766328822168ea1bdd7\\output\\res\\drawable\\common_google_signin_btn_text_dark_focused.xml"
+    },
+    {
+        "merged": "C:\\Users\\Michael Blackwell\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_expanded_controller_seekbar_track.xml",
+        "source": "C:\\Users\\Michael Blackwell\\.android\\build-cache\\33b9714a030f1eba0c8b37799f9268f1f498c8e7\\output\\res\\drawable\\cast_expanded_controller_seekbar_track.xml"
+    },
+    {
+        "merged": "C:\\Users\\Michael Blackwell\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light_focused.xml",
+        "source": "C:\\Users\\Michael Blackwell\\.android\\build-cache\\fe8d455a78fe8b009583f766328822168ea1bdd7\\output\\res\\drawable\\common_google_signin_btn_text_light_focused.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_map_black_24dp.xml",
+        "source": "D:\\AndroidStudio\\ODUSafe\\app\\src\\main\\res\\drawable\\ic_map_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\barna\\Documents\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light_focused.xml",
+        "source": "C:\\Users\\barna\\.android\\build-cache\\24447a32cc59944792f53ddfa03290fbd755bf83\\output\\res\\drawable\\common_google_signin_btn_icon_light_focused.xml"
+    },
+    {
+        "merged": "C:\\Users\\Michael Blackwell\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\Michael Blackwell\\.android\\build-cache\\ff8b80eb63ab778a034e6fb68dd4172cd1daed1f\\output\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Michael Blackwell\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_forward30.xml",
+        "source": "C:\\Users\\Michael Blackwell\\.android\\build-cache\\33b9714a030f1eba0c8b37799f9268f1f498c8e7\\output\\res\\drawable\\cast_ic_expanded_controller_forward30.xml"
+    },
+    {
+        "merged": "C:\\Users\\barna\\Documents\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\navigation_empty_icon.xml",
+        "source": "C:\\Users\\barna\\.android\\build-cache\\ca211ed3ca8060b55997b701315612f1666a0b50\\output\\res\\drawable\\navigation_empty_icon.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_stop.xml",
+        "source": "C:\\Users\\Kwasimoto\\.android\\build-cache\\650574eb5b68832658cf7dec158b27503875e990\\output\\res\\drawable\\cast_ic_expanded_controller_stop.xml"
+    },
+    {
+        "merged": "C:\\Users\\Michael Blackwell\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\Michael Blackwell\\.android\\build-cache\\ff8b80eb63ab778a034e6fb68dd4172cd1daed1f\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\barna\\Documents\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_pause_dark.xml",
+        "source": "C:\\Users\\barna\\.android\\build-cache\\8d0a4105512e29679134bfcbd13979204c0293e4\\output\\res\\drawable\\mr_ic_pause_dark.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_pause.xml",
+        "source": "C:\\Users\\Kwasimoto\\.android\\build-cache\\650574eb5b68832658cf7dec158b27503875e990\\output\\res\\drawable\\cast_ic_notification_pause.xml"
+    },
+    {
+        "merged": "C:\\Users\\Michael Blackwell\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\Michael Blackwell\\.android\\build-cache\\ff8b80eb63ab778a034e6fb68dd4172cd1daed1f\\output\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\barna\\Documents\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\barna\\.android\\build-cache\\1aea65aa913827f0734f76ee9fd69a9611effe5b\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Michael Blackwell\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_pause_light.xml",
+        "source": "C:\\Users\\Michael Blackwell\\.android\\build-cache\\1326288f4c952781499e6d7c1a727c081d5e73d8\\output\\res\\drawable\\mr_ic_pause_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\barna\\Documents\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\lion.jpg",
+        "source": "C:\\Users\\barna\\Documents\\ODUSafe\\app\\src\\main\\res\\drawable\\lion.jpg"
+    },
+    {
+        "merged": "C:\\Users\\barna\\Documents\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\chembldg.jpeg",
+        "source": "C:\\Users\\barna\\Documents\\ODUSafe\\app\\src\\main\\res\\drawable\\chembldg.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\barna\\Documents\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\barna\\.android\\build-cache\\1aea65aa913827f0734f76ee9fd69a9611effe5b\\output\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\barna\\Documents\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_skip_next.xml",
+        "source": "C:\\Users\\barna\\.android\\build-cache\\94d50b6b0da9a742c3d8def3398fc5871c99e9f1\\output\\res\\drawable\\cast_ic_expanded_controller_skip_next.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_warning_black_24dp.xml",
+        "source": "D:\\AndroidStudio\\ODUSafe\\app\\src\\main\\res\\drawable\\ic_warning_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\Michael Blackwell\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_rewind.xml",
+        "source": "C:\\Users\\Michael Blackwell\\.android\\build-cache\\33b9714a030f1eba0c8b37799f9268f1f498c8e7\\output\\res\\drawable\\cast_ic_notification_rewind.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light.xml",
+        "source": "C:\\Users\\Kwasimoto\\.android\\build-cache\\94010153b3d40e96363d6a95b5300f51660cbf90\\output\\res\\drawable\\common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_expanded_controller_actionbar_bg_gradient_light.xml",
+        "source": "C:\\Users\\Kwasimoto\\.android\\build-cache\\650574eb5b68832658cf7dec158b27503875e990\\output\\res\\drawable\\cast_expanded_controller_actionbar_bg_gradient_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Michael Blackwell\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\Michael Blackwell\\.android\\build-cache\\ff8b80eb63ab778a034e6fb68dd4172cd1daed1f\\output\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_skip_prev.xml",
+        "source": "C:\\Users\\Kwasimoto\\.android\\build-cache\\650574eb5b68832658cf7dec158b27503875e990\\output\\res\\drawable\\cast_ic_mini_controller_skip_prev.xml"
+    },
+    {
+        "merged": "C:\\Users\\Michael Blackwell\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "C:\\Users\\Michael Blackwell\\.android\\build-cache\\ff8b80eb63ab778a034e6fb68dd4172cd1daed1f\\output\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_skip_previous.xml",
+        "source": "C:\\Users\\Kwasimoto\\.android\\build-cache\\650574eb5b68832658cf7dec158b27503875e990\\output\\res\\drawable\\cast_ic_expanded_controller_skip_previous.xml"
+    },
+    {
+        "merged": "C:\\Users\\barna\\Documents\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_small_icon.xml",
+        "source": "C:\\Users\\barna\\.android\\build-cache\\94d50b6b0da9a742c3d8def3398fc5871c99e9f1\\output\\res\\drawable\\cast_ic_notification_small_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\barna\\Documents\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\roundedcancelbutton.xml",
+        "source": "C:\\Users\\barna\\Documents\\ODUSafe\\app\\src\\main\\res\\drawable\\roundedcancelbutton.xml"
+    },
+    {
+        "merged": "C:\\Users\\Michael Blackwell\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_notifications_black_24dp.xml",
+        "source": "C:\\Users\\Michael Blackwell\\ODUSafe\\app\\src\\main\\res\\drawable\\ic_notifications_black_24dp.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_on_dark.xml",
+        "source": "C:\\Users\\Kwasimoto\\.android\\build-cache\\1dee07da569deed6de668d09da5638835951a03e\\output\\res\\drawable\\mr_ic_media_route_on_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\barna\\Documents\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light.xml",
+        "source": "C:\\Users\\barna\\.android\\build-cache\\24447a32cc59944792f53ddfa03290fbd755bf83\\output\\res\\drawable\\common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\barna\\Documents\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\barna\\.android\\build-cache\\1aea65aa913827f0734f76ee9fd69a9611effe5b\\output\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Michael Blackwell\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\smalllogo.png",
+        "source": "C:\\Users\\Michael Blackwell\\ODUSafe\\app\\src\\main\\res\\drawable\\smalllogo.png"
+    },
+    {
+        "merged": "C:\\Users\\barna\\Documents\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_forward.xml",
+        "source": "C:\\Users\\barna\\.android\\build-cache\\94d50b6b0da9a742c3d8def3398fc5871c99e9f1\\output\\res\\drawable\\cast_ic_notification_forward.xml"
+    },
+    {
+        "merged": "C:\\Users\\Michael Blackwell\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\Michael Blackwell\\.android\\build-cache\\ff8b80eb63ab778a034e6fb68dd4172cd1daed1f\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Michael Blackwell\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_pause.xml",
+        "source": "C:\\Users\\Michael Blackwell\\.android\\build-cache\\33b9714a030f1eba0c8b37799f9268f1f498c8e7\\output\\res\\drawable\\cast_ic_mini_controller_pause.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\Kwasimoto\\.android\\build-cache\\c3eefa010e06e6adea2c5e77976dc36d14765637\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\Kwasimoto\\.android\\build-cache\\c3eefa010e06e6adea2c5e77976dc36d14765637\\output\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Michael Blackwell\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_arrow_forward_black_24dp.xml",
+        "source": "C:\\Users\\Michael Blackwell\\ODUSafe\\app\\src\\main\\res\\drawable\\ic_arrow_forward_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\barna\\Documents\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_close_dark.xml",
+        "source": "C:\\Users\\barna\\.android\\build-cache\\8d0a4105512e29679134bfcbd13979204c0293e4\\output\\res\\drawable\\mr_ic_close_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Michael Blackwell\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logo2.png",
+        "source": "C:\\Users\\Michael Blackwell\\ODUSafe\\app\\src\\main\\res\\drawable\\logo2.png"
+    },
+    {
+        "merged": "C:\\Users\\Michael Blackwell\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark_focused.xml",
+        "source": "C:\\Users\\Michael Blackwell\\.android\\build-cache\\fe8d455a78fe8b009583f766328822168ea1bdd7\\output\\res\\drawable\\common_google_signin_btn_icon_dark_focused.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_mute.xml",
+        "source": "C:\\Users\\Kwasimoto\\.android\\build-cache\\650574eb5b68832658cf7dec158b27503875e990\\output\\res\\drawable\\cast_ic_expanded_controller_mute.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_skip_prev.xml",
+        "source": "C:\\Users\\Kwasimoto\\.android\\build-cache\\650574eb5b68832658cf7dec158b27503875e990\\output\\res\\drawable\\cast_ic_notification_skip_prev.xml"
+    },
+    {
+        "merged": "C:\\Users\\barna\\Documents\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark_focused.xml",
+        "source": "C:\\Users\\barna\\.android\\build-cache\\24447a32cc59944792f53ddfa03290fbd755bf83\\output\\res\\drawable\\common_google_signin_btn_icon_dark_focused.xml"
+    },
+    {
+        "merged": "C:\\Users\\barna\\Documents\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "C:\\Users\\barna\\.android\\build-cache\\1aea65aa913827f0734f76ee9fd69a9611effe5b\\output\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\barna\\Documents\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_play.xml",
+        "source": "C:\\Users\\barna\\.android\\build-cache\\94d50b6b0da9a742c3d8def3398fc5871c99e9f1\\output\\res\\drawable\\cast_ic_expanded_controller_play.xml"
+    },
+    {
+        "merged": "C:\\Users\\Michael Blackwell\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_rewind30.xml",
+        "source": "C:\\Users\\Michael Blackwell\\.android\\build-cache\\33b9714a030f1eba0c8b37799f9268f1f498c8e7\\output\\res\\drawable\\cast_ic_mini_controller_rewind30.xml"
+    },
+    {
+        "merged": "C:\\Users\\Michael Blackwell\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\navigation_empty_icon.xml",
+        "source": "C:\\Users\\Michael Blackwell\\.android\\build-cache\\44f801d3c86d39d6c86a27c40f0cb097ec3e87bc\\output\\res\\drawable\\navigation_empty_icon.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\Kwasimoto\\.android\\build-cache\\c3eefa010e06e6adea2c5e77976dc36d14765637\\output\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Michael Blackwell\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_closed_caption.xml",
+        "source": "C:\\Users\\Michael Blackwell\\.android\\build-cache\\33b9714a030f1eba0c8b37799f9268f1f498c8e7\\output\\res\\drawable\\cast_ic_expanded_controller_closed_caption.xml"
+    },
+    {
+        "merged": "C:\\Users\\Michael Blackwell\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\Michael Blackwell\\.android\\build-cache\\ff8b80eb63ab778a034e6fb68dd4172cd1daed1f\\output\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Michael Blackwell\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_skip_prev.xml",
+        "source": "C:\\Users\\Michael Blackwell\\.android\\build-cache\\33b9714a030f1eba0c8b37799f9268f1f498c8e7\\output\\res\\drawable\\cast_ic_notification_skip_prev.xml"
+    },
+    {
+        "merged": "C:\\Users\\Michael Blackwell\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_home_black_24dp.xml",
+        "source": "C:\\Users\\Michael Blackwell\\ODUSafe\\app\\src\\main\\res\\drawable\\ic_home_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\barna\\Documents\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_mini_controller_gradient_light.xml",
+        "source": "C:\\Users\\barna\\.android\\build-cache\\94d50b6b0da9a742c3d8def3398fc5871c99e9f1\\output\\res\\drawable\\cast_mini_controller_gradient_light.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_skip_next.xml",
+        "source": "C:\\Users\\Kwasimoto\\.android\\build-cache\\650574eb5b68832658cf7dec158b27503875e990\\output\\res\\drawable\\cast_ic_mini_controller_skip_next.xml"
+    },
+    {
+        "merged": "C:\\Users\\Michael Blackwell\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_collapse.xml",
+        "source": "C:\\Users\\Michael Blackwell\\.android\\build-cache\\1326288f4c952781499e6d7c1a727c081d5e73d8\\output\\res\\drawable\\ic_collapse.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_disconnect.xml",
+        "source": "C:\\Users\\Kwasimoto\\.android\\build-cache\\650574eb5b68832658cf7dec158b27503875e990\\output\\res\\drawable\\cast_ic_notification_disconnect.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
+        "source": "C:\\Users\\Kwasimoto\\.android\\build-cache\\0139664ceaef0b32c34c4ff88a96811c69d8e50f\\output\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\Kwasimoto\\.android\\build-cache\\c3eefa010e06e6adea2c5e77976dc36d14765637\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\barna\\Documents\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_play.xml",
+        "source": "C:\\Users\\barna\\.android\\build-cache\\94d50b6b0da9a742c3d8def3398fc5871c99e9f1\\output\\res\\drawable\\cast_ic_notification_play.xml"
+    },
+    {
+        "merged": "C:\\Users\\barna\\Documents\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark_focused.xml",
+        "source": "C:\\Users\\barna\\.android\\build-cache\\24447a32cc59944792f53ddfa03290fbd755bf83\\output\\res\\drawable\\common_google_signin_btn_text_dark_focused.xml"
+    },
+    {
+        "merged": "C:\\Users\\barna\\Documents\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "C:\\Users\\barna\\.android\\build-cache\\1aea65aa913827f0734f76ee9fd69a9611effe5b\\output\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\barna\\Documents\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\panicheader.png",
+        "source": "C:\\Users\\barna\\Documents\\ODUSafe\\app\\src\\main\\res\\drawable\\panicheader.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_close_light.xml",
+        "source": "C:\\Users\\Kwasimoto\\.android\\build-cache\\1dee07da569deed6de668d09da5638835951a03e\\output\\res\\drawable\\mr_ic_close_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Michael Blackwell\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_create_black_24dp.xml",
+        "source": "C:\\Users\\Michael Blackwell\\ODUSafe\\app\\src\\main\\res\\drawable\\ic_create_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\Michael Blackwell\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_mute.xml",
+        "source": "C:\\Users\\Michael Blackwell\\.android\\build-cache\\33b9714a030f1eba0c8b37799f9268f1f498c8e7\\output\\res\\drawable\\cast_ic_mini_controller_mute.xml"
+    },
+    {
+        "merged": "C:\\Users\\Michael Blackwell\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\Michael Blackwell\\.android\\build-cache\\ff8b80eb63ab778a034e6fb68dd4172cd1daed1f\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Michael Blackwell\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_border_color_black_24dp.xml",
+        "source": "C:\\Users\\Michael Blackwell\\ODUSafe\\app\\src\\main\\res\\drawable\\ic_border_color_black_24dp.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_collapse.xml",
+        "source": "C:\\Users\\Kwasimoto\\.android\\build-cache\\1dee07da569deed6de668d09da5638835951a03e\\output\\res\\drawable\\ic_collapse.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "C:\\Users\\Kwasimoto\\.android\\build-cache\\c3eefa010e06e6adea2c5e77976dc36d14765637\\output\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\barna\\Documents\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\barna\\.android\\build-cache\\1aea65aa913827f0734f76ee9fd69a9611effe5b\\output\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Michael Blackwell\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\Michael Blackwell\\.android\\build-cache\\ff8b80eb63ab778a034e6fb68dd4172cd1daed1f\\output\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\barna\\Documents\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_skip_next.xml",
+        "source": "C:\\Users\\barna\\.android\\build-cache\\94d50b6b0da9a742c3d8def3398fc5871c99e9f1\\output\\res\\drawable\\cast_ic_notification_skip_next.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_forward.xml",
+        "source": "C:\\Users\\Kwasimoto\\.android\\build-cache\\650574eb5b68832658cf7dec158b27503875e990\\output\\res\\drawable\\cast_ic_notification_forward.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_expanded_controller_seekbar_track.xml",
+        "source": "C:\\Users\\Kwasimoto\\.android\\build-cache\\650574eb5b68832658cf7dec158b27503875e990\\output\\res\\drawable\\cast_expanded_controller_seekbar_track.xml"
+    },
+    {
+        "merged": "C:\\Users\\barna\\Documents\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_pause_light.xml",
+        "source": "C:\\Users\\barna\\.android\\build-cache\\8d0a4105512e29679134bfcbd13979204c0293e4\\output\\res\\drawable\\mr_ic_pause_light.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_skip_ad_label_border.xml",
+        "source": "C:\\Users\\Kwasimoto\\.android\\build-cache\\650574eb5b68832658cf7dec158b27503875e990\\output\\res\\drawable\\cast_skip_ad_label_border.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_close_dark.xml",
+        "source": "C:\\Users\\Kwasimoto\\.android\\build-cache\\1dee07da569deed6de668d09da5638835951a03e\\output\\res\\drawable\\mr_ic_close_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Michael Blackwell\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_forward30.xml",
+        "source": "C:\\Users\\Michael Blackwell\\.android\\build-cache\\33b9714a030f1eba0c8b37799f9268f1f498c8e7\\output\\res\\drawable\\cast_ic_notification_forward30.xml"
+    },
+    {
+        "merged": "C:\\Users\\Michael Blackwell\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_rewind30.xml",
+        "source": "C:\\Users\\Michael Blackwell\\.android\\build-cache\\33b9714a030f1eba0c8b37799f9268f1f498c8e7\\output\\res\\drawable\\cast_ic_expanded_controller_rewind30.xml"
+    },
+    {
+        "merged": "C:\\Users\\barna\\Documents\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_home_black_24dp.xml",
+        "source": "C:\\Users\\barna\\Documents\\ODUSafe\\app\\src\\main\\res\\drawable\\ic_home_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\Michael Blackwell\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "C:\\Users\\Michael Blackwell\\.android\\build-cache\\ff8b80eb63ab778a034e6fb68dd4172cd1daed1f\\output\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\barna\\Documents\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_forward10.xml",
+        "source": "C:\\Users\\barna\\.android\\build-cache\\94d50b6b0da9a742c3d8def3398fc5871c99e9f1\\output\\res\\drawable\\cast_ic_notification_forward10.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "C:\\Users\\Kwasimoto\\.android\\build-cache\\c3eefa010e06e6adea2c5e77976dc36d14765637\\output\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_expand.xml",
+        "source": "C:\\Users\\Kwasimoto\\.android\\build-cache\\1dee07da569deed6de668d09da5638835951a03e\\output\\res\\drawable\\ic_expand.xml"
+    },
+    {
+        "merged": "C:\\Users\\Michael Blackwell\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "C:\\Users\\Michael Blackwell\\.android\\build-cache\\ff8b80eb63ab778a034e6fb68dd4172cd1daed1f\\output\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Michael Blackwell\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "C:\\Users\\Michael Blackwell\\.android\\build-cache\\ff8b80eb63ab778a034e6fb68dd4172cd1daed1f\\output\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_closed_caption.xml",
+        "source": "C:\\Users\\Kwasimoto\\.android\\build-cache\\650574eb5b68832658cf7dec158b27503875e990\\output\\res\\drawable\\cast_ic_mini_controller_closed_caption.xml"
+    },
+    {
+        "merged": "C:\\Users\\Michael Blackwell\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_dashboard_black_24dp.xml",
+        "source": "C:\\Users\\Michael Blackwell\\ODUSafe\\app\\src\\main\\res\\drawable\\ic_dashboard_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\Michael Blackwell\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_phone_in_talk_black_24dp.xml",
+        "source": "C:\\Users\\Michael Blackwell\\ODUSafe\\app\\src\\main\\res\\drawable\\ic_phone_in_talk_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\barna\\Documents\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_dialog_material_background_dark.xml",
+        "source": "C:\\Users\\barna\\.android\\build-cache\\8d0a4105512e29679134bfcbd13979204c0293e4\\output\\res\\drawable\\mr_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Michael Blackwell\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\Michael Blackwell\\.android\\build-cache\\ff8b80eb63ab778a034e6fb68dd4172cd1daed1f\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\barna\\Documents\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_arrow_forward_black_24dp.xml",
+        "source": "C:\\Users\\barna\\Documents\\ODUSafe\\app\\src\\main\\res\\drawable\\ic_arrow_forward_black_24dp.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_mini_controller_gradient_light.xml",
+        "source": "C:\\Users\\Kwasimoto\\.android\\build-cache\\650574eb5b68832658cf7dec158b27503875e990\\output\\res\\drawable\\cast_mini_controller_gradient_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\barna\\Documents\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_forward30.xml",
+        "source": "C:\\Users\\barna\\.android\\build-cache\\94d50b6b0da9a742c3d8def3398fc5871c99e9f1\\output\\res\\drawable\\cast_ic_mini_controller_forward30.xml"
+    },
+    {
+        "merged": "C:\\Users\\Michael Blackwell\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\side_nav_bar.xml",
+        "source": "C:\\Users\\Michael Blackwell\\ODUSafe\\app\\src\\main\\res\\drawable\\side_nav_bar.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark.xml",
+        "source": "C:\\Users\\Kwasimoto\\.android\\build-cache\\94010153b3d40e96363d6a95b5300f51660cbf90\\output\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Michael Blackwell\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_stop.xml",
+        "source": "C:\\Users\\Michael Blackwell\\.android\\build-cache\\33b9714a030f1eba0c8b37799f9268f1f498c8e7\\output\\res\\drawable\\cast_ic_mini_controller_stop.xml"
+    },
+    {
+        "merged": "C:\\Users\\Michael Blackwell\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\Michael Blackwell\\.android\\build-cache\\ff8b80eb63ab778a034e6fb68dd4172cd1daed1f\\output\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Michael Blackwell\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_skip_next.xml",
+        "source": "C:\\Users\\Michael Blackwell\\.android\\build-cache\\33b9714a030f1eba0c8b37799f9268f1f498c8e7\\output\\res\\drawable\\cast_ic_notification_skip_next.xml"
+    },
+    {
+        "merged": "C:\\Users\\barna\\Documents\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_refresh_black_24dp.xml",
+        "source": "C:\\Users\\barna\\Documents\\ODUSafe\\app\\src\\main\\res\\drawable\\ic_refresh_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\Michael Blackwell\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\Michael Blackwell\\.android\\build-cache\\ff8b80eb63ab778a034e6fb68dd4172cd1daed1f\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\Michael Blackwell\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_audiotrack_light.xml",
+        "source": "C:\\Users\\Michael Blackwell\\.android\\build-cache\\1326288f4c952781499e6d7c1a727c081d5e73d8\\output\\res\\drawable\\mr_ic_audiotrack_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Michael Blackwell\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_close_black_24dp.xml",
+        "source": "C:\\Users\\Michael Blackwell\\ODUSafe\\app\\src\\main\\res\\drawable\\ic_close_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\Michael Blackwell\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\Michael Blackwell\\.android\\build-cache\\ff8b80eb63ab778a034e6fb68dd4172cd1daed1f\\output\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_cast_dark.xml",
+        "source": "C:\\Users\\Kwasimoto\\.android\\build-cache\\1dee07da569deed6de668d09da5638835951a03e\\output\\res\\drawable\\mr_ic_cast_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\barna\\Documents\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_attach_file_black_24dp.xml",
+        "source": "C:\\Users\\barna\\Documents\\ODUSafe\\app\\src\\main\\res\\drawable\\ic_attach_file_black_24dp.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_audiotrack_light.xml",
+        "source": "C:\\Users\\Kwasimoto\\.android\\build-cache\\1dee07da569deed6de668d09da5638835951a03e\\output\\res\\drawable\\mr_ic_audiotrack_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Michael Blackwell\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\Michael Blackwell\\.android\\build-cache\\ff8b80eb63ab778a034e6fb68dd4172cd1daed1f\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark_focused.xml",
+        "source": "C:\\Users\\Kwasimoto\\.android\\build-cache\\94010153b3d40e96363d6a95b5300f51660cbf90\\output\\res\\drawable\\common_google_signin_btn_icon_dark_focused.xml"
+    },
+    {
+        "merged": "C:\\Users\\barna\\Documents\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_notifications_black_24dp.xml",
+        "source": "C:\\Users\\barna\\Documents\\ODUSafe\\app\\src\\main\\res\\drawable\\ic_notifications_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\Michael Blackwell\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "C:\\Users\\Michael Blackwell\\.android\\build-cache\\ff8b80eb63ab778a034e6fb68dd4172cd1daed1f\\output\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_play_light.xml",
+        "source": "C:\\Users\\Kwasimoto\\.android\\build-cache\\1dee07da569deed6de668d09da5638835951a03e\\output\\res\\drawable\\mr_ic_play_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\barna\\Documents\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_mono_dark.xml",
+        "source": "C:\\Users\\barna\\.android\\build-cache\\8d0a4105512e29679134bfcbd13979204c0293e4\\output\\res\\drawable\\mr_ic_media_route_mono_dark.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_play_dark.xml",
+        "source": "C:\\Users\\Kwasimoto\\.android\\build-cache\\1dee07da569deed6de668d09da5638835951a03e\\output\\res\\drawable\\mr_ic_play_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\barna\\Documents\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_play_large.xml",
+        "source": "C:\\Users\\barna\\.android\\build-cache\\94d50b6b0da9a742c3d8def3398fc5871c99e9f1\\output\\res\\drawable\\cast_ic_mini_controller_play_large.xml"
+    },
+    {
+        "merged": "C:\\Users\\barna\\Documents\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\barna\\.android\\build-cache\\1aea65aa913827f0734f76ee9fd69a9611effe5b\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\barna\\Documents\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_dashboard_black_24dp.xml",
+        "source": "C:\\Users\\barna\\Documents\\ODUSafe\\app\\src\\main\\res\\drawable\\ic_dashboard_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\barna\\Documents\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_stop_large.xml",
+        "source": "C:\\Users\\barna\\.android\\build-cache\\94d50b6b0da9a742c3d8def3398fc5871c99e9f1\\output\\res\\drawable\\cast_ic_mini_controller_stop_large.xml"
+    },
+    {
+        "merged": "C:\\Users\\Michael Blackwell\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_on_dark.xml",
+        "source": "C:\\Users\\Michael Blackwell\\.android\\build-cache\\1326288f4c952781499e6d7c1a727c081d5e73d8\\output\\res\\drawable\\mr_ic_media_route_on_dark.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "C:\\Users\\Kwasimoto\\.android\\build-cache\\c3eefa010e06e6adea2c5e77976dc36d14765637\\output\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
+        "source": "C:\\Users\\Kwasimoto\\.android\\build-cache\\c3eefa010e06e6adea2c5e77976dc36d14765637\\output\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "C:\\Users\\barna\\Documents\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\barna\\.android\\build-cache\\1aea65aa913827f0734f76ee9fd69a9611effe5b\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Michael Blackwell\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\Michael Blackwell\\.android\\build-cache\\ff8b80eb63ab778a034e6fb68dd4172cd1daed1f\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\barna\\Documents\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\barna\\.android\\build-cache\\1aea65aa913827f0734f76ee9fd69a9611effe5b\\output\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\Kwasimoto\\.android\\build-cache\\c3eefa010e06e6adea2c5e77976dc36d14765637\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logo2.png",
+        "source": "D:\\AndroidStudio\\ODUSafe\\app\\src\\main\\res\\drawable\\logo2.png"
+    },
+    {
+        "merged": "C:\\Users\\barna\\Documents\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\barna\\.android\\build-cache\\1aea65aa913827f0734f76ee9fd69a9611effe5b\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Michael Blackwell\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_play.xml",
+        "source": "C:\\Users\\Michael Blackwell\\.android\\build-cache\\33b9714a030f1eba0c8b37799f9268f1f498c8e7\\output\\res\\drawable\\cast_ic_expanded_controller_play.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\side_nav_bar.xml",
+        "source": "D:\\AndroidStudio\\ODUSafe\\app\\src\\main\\res\\drawable\\side_nav_bar.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_mini_controller_progress_drawable.xml",
+        "source": "C:\\Users\\Kwasimoto\\.android\\build-cache\\650574eb5b68832658cf7dec158b27503875e990\\output\\res\\drawable\\cast_mini_controller_progress_drawable.xml"
+    },
+    {
+        "merged": "C:\\Users\\barna\\Documents\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logo2.png",
+        "source": "C:\\Users\\barna\\Documents\\ODUSafe\\app\\src\\main\\res\\drawable\\logo2.png"
+    },
+    {
+        "merged": "C:\\Users\\Michael Blackwell\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_stop_live_stream.xml",
+        "source": "C:\\Users\\Michael Blackwell\\.android\\build-cache\\33b9714a030f1eba0c8b37799f9268f1f498c8e7\\output\\res\\drawable\\cast_ic_notification_stop_live_stream.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_closed_caption.xml",
+        "source": "C:\\Users\\Kwasimoto\\.android\\build-cache\\650574eb5b68832658cf7dec158b27503875e990\\output\\res\\drawable\\cast_ic_expanded_controller_closed_caption.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\Kwasimoto\\.android\\build-cache\\c3eefa010e06e6adea2c5e77976dc36d14765637\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Michael Blackwell\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\chembldg.jpeg",
+        "source": "C:\\Users\\Michael Blackwell\\ODUSafe\\app\\src\\main\\res\\drawable\\chembldg.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\Michael Blackwell\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_close_dark.xml",
+        "source": "C:\\Users\\Michael Blackwell\\.android\\build-cache\\1326288f4c952781499e6d7c1a727c081d5e73d8\\output\\res\\drawable\\mr_ic_close_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\barna\\Documents\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light_focused.xml",
+        "source": "C:\\Users\\barna\\.android\\build-cache\\24447a32cc59944792f53ddfa03290fbd755bf83\\output\\res\\drawable\\common_google_signin_btn_text_light_focused.xml"
+    },
+    {
+        "merged": "C:\\Users\\barna\\Documents\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_disconnect.xml",
+        "source": "C:\\Users\\barna\\.android\\build-cache\\94d50b6b0da9a742c3d8def3398fc5871c99e9f1\\output\\res\\drawable\\cast_ic_notification_disconnect.xml"
+    },
+    {
+        "merged": "C:\\Users\\Michael Blackwell\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_play.xml",
+        "source": "C:\\Users\\Michael Blackwell\\.android\\build-cache\\33b9714a030f1eba0c8b37799f9268f1f498c8e7\\output\\res\\drawable\\cast_ic_notification_play.xml"
+    },
+    {
+        "merged": "C:\\Users\\barna\\Documents\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "C:\\Users\\barna\\.android\\build-cache\\1aea65aa913827f0734f76ee9fd69a9611effe5b\\output\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\barna\\Documents\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_expanded_controller_bg_gradient_light.xml",
+        "source": "C:\\Users\\barna\\.android\\build-cache\\94d50b6b0da9a742c3d8def3398fc5871c99e9f1\\output\\res\\drawable\\cast_expanded_controller_bg_gradient_light.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\Kwasimoto\\.android\\build-cache\\c3eefa010e06e6adea2c5e77976dc36d14765637\\output\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "C:\\Users\\Kwasimoto\\.android\\build-cache\\c3eefa010e06e6adea2c5e77976dc36d14765637\\output\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\Kwasimoto\\.android\\build-cache\\c3eefa010e06e6adea2c5e77976dc36d14765637\\output\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_mono_dark.xml",
+        "source": "C:\\Users\\Kwasimoto\\.android\\build-cache\\1dee07da569deed6de668d09da5638835951a03e\\output\\res\\drawable\\mr_ic_media_route_mono_dark.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_arrow_forward_black_24dp.xml",
+        "source": "D:\\AndroidStudio\\ODUSafe\\app\\src\\main\\res\\drawable\\ic_arrow_forward_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\Michael Blackwell\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_connecting.xml",
+        "source": "C:\\Users\\Michael Blackwell\\.android\\build-cache\\5695945da027dd2362abfd05f33b8075d45f2fd2\\output\\res\\drawable\\cast_ic_notification_connecting.xml"
+    },
+    {
+        "merged": "C:\\Users\\Michael Blackwell\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "C:\\Users\\Michael Blackwell\\.android\\build-cache\\ff8b80eb63ab778a034e6fb68dd4172cd1daed1f\\output\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\barna\\Documents\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_rewind30.xml",
+        "source": "C:\\Users\\barna\\.android\\build-cache\\94d50b6b0da9a742c3d8def3398fc5871c99e9f1\\output\\res\\drawable\\cast_ic_mini_controller_rewind30.xml"
+    },
+    {
+        "merged": "C:\\Users\\barna\\Documents\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\barna\\.android\\build-cache\\1aea65aa913827f0734f76ee9fd69a9611effe5b\\output\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Michael Blackwell\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_mini_controller_gradient_light.xml",
+        "source": "C:\\Users\\Michael Blackwell\\.android\\build-cache\\33b9714a030f1eba0c8b37799f9268f1f498c8e7\\output\\res\\drawable\\cast_mini_controller_gradient_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\barna\\Documents\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "C:\\Users\\barna\\.android\\build-cache\\1aea65aa913827f0734f76ee9fd69a9611effe5b\\output\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Michael Blackwell\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\Michael Blackwell\\.android\\build-cache\\fe8d455a78fe8b009583f766328822168ea1bdd7\\output\\res\\drawable\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Michael Blackwell\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
+        "source": "C:\\Users\\Michael Blackwell\\.android\\build-cache\\ff8b80eb63ab778a034e6fb68dd4172cd1daed1f\\output\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "C:\\Users\\Michael Blackwell\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_connecting_dark.xml",
+        "source": "C:\\Users\\Michael Blackwell\\.android\\build-cache\\1326288f4c952781499e6d7c1a727c081d5e73d8\\output\\res\\drawable\\mr_ic_media_route_connecting_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\barna\\Documents\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "C:\\Users\\barna\\.android\\build-cache\\1aea65aa913827f0734f76ee9fd69a9611effe5b\\output\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\Kwasimoto\\.android\\build-cache\\c3eefa010e06e6adea2c5e77976dc36d14765637\\output\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light_focused.xml",
+        "source": "C:\\Users\\Kwasimoto\\.android\\build-cache\\94010153b3d40e96363d6a95b5300f51660cbf90\\output\\res\\drawable\\common_google_signin_btn_icon_light_focused.xml"
+    },
+    {
+        "merged": "C:\\Users\\barna\\Documents\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_map_black_24dp.xml",
+        "source": "C:\\Users\\barna\\Documents\\ODUSafe\\app\\src\\main\\res\\drawable\\ic_map_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\barna\\Documents\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_skip_next.xml",
+        "source": "C:\\Users\\barna\\.android\\build-cache\\94d50b6b0da9a742c3d8def3398fc5871c99e9f1\\output\\res\\drawable\\cast_ic_mini_controller_skip_next.xml"
+    },
+    {
+        "merged": "C:\\Users\\Michael Blackwell\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_mono_light.xml",
+        "source": "C:\\Users\\Michael Blackwell\\.android\\build-cache\\1326288f4c952781499e6d7c1a727c081d5e73d8\\output\\res\\drawable\\mr_ic_media_route_mono_light.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\Kwasimoto\\.android\\build-cache\\c3eefa010e06e6adea2c5e77976dc36d14765637\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\Michael Blackwell\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_skip_prev.xml",
+        "source": "C:\\Users\\Michael Blackwell\\.android\\build-cache\\33b9714a030f1eba0c8b37799f9268f1f498c8e7\\output\\res\\drawable\\cast_ic_mini_controller_skip_prev.xml"
+    },
+    {
+        "merged": "C:\\Users\\Michael Blackwell\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\Michael Blackwell\\.android\\build-cache\\ff8b80eb63ab778a034e6fb68dd4172cd1daed1f\\output\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logo.png",
+        "source": "D:\\AndroidStudio\\ODUSafe\\app\\src\\main\\res\\drawable\\logo.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_play.xml",
+        "source": "C:\\Users\\Kwasimoto\\.android\\build-cache\\650574eb5b68832658cf7dec158b27503875e990\\output\\res\\drawable\\cast_ic_expanded_controller_play.xml"
+    },
+    {
+        "merged": "C:\\Users\\Michael Blackwell\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_play_dark.xml",
+        "source": "C:\\Users\\Michael Blackwell\\.android\\build-cache\\1326288f4c952781499e6d7c1a727c081d5e73d8\\output\\res\\drawable\\mr_ic_play_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Michael Blackwell\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\Michael Blackwell\\.android\\build-cache\\ff8b80eb63ab778a034e6fb68dd4172cd1daed1f\\output\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Michael Blackwell\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_pause.xml",
+        "source": "C:\\Users\\Michael Blackwell\\.android\\build-cache\\33b9714a030f1eba0c8b37799f9268f1f498c8e7\\output\\res\\drawable\\cast_ic_notification_pause.xml"
+    },
+    {
+        "merged": "C:\\Users\\barna\\Documents\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_expand.xml",
+        "source": "C:\\Users\\barna\\.android\\build-cache\\8d0a4105512e29679134bfcbd13979204c0293e4\\output\\res\\drawable\\ic_expand.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\Kwasimoto\\.android\\build-cache\\c3eefa010e06e6adea2c5e77976dc36d14765637\\output\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\barna\\Documents\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\barna\\.android\\build-cache\\1aea65aa913827f0734f76ee9fd69a9611effe5b\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark_focused.xml",
+        "source": "C:\\Users\\Kwasimoto\\.android\\build-cache\\94010153b3d40e96363d6a95b5300f51660cbf90\\output\\res\\drawable\\common_google_signin_btn_text_dark_focused.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\Kwasimoto\\.android\\build-cache\\c3eefa010e06e6adea2c5e77976dc36d14765637\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_pause.xml",
+        "source": "C:\\Users\\Kwasimoto\\.android\\build-cache\\650574eb5b68832658cf7dec158b27503875e990\\output\\res\\drawable\\cast_ic_mini_controller_pause.xml"
+    },
+    {
+        "merged": "C:\\Users\\Michael Blackwell\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_play.xml",
+        "source": "C:\\Users\\Michael Blackwell\\.android\\build-cache\\33b9714a030f1eba0c8b37799f9268f1f498c8e7\\output\\res\\drawable\\cast_ic_mini_controller_play.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\chembldg.jpeg",
+        "source": "D:\\AndroidStudio\\ODUSafe\\app\\src\\main\\res\\drawable\\chembldg.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\barna\\Documents\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_connecting_light.xml",
+        "source": "C:\\Users\\barna\\.android\\build-cache\\8d0a4105512e29679134bfcbd13979204c0293e4\\output\\res\\drawable\\mr_ic_media_route_connecting_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\barna\\Documents\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\barna\\.android\\build-cache\\1aea65aa913827f0734f76ee9fd69a9611effe5b\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\barna\\Documents\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "C:\\Users\\barna\\.android\\build-cache\\1aea65aa913827f0734f76ee9fd69a9611effe5b\\output\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "C:\\Users\\Kwasimoto\\.android\\build-cache\\c3eefa010e06e6adea2c5e77976dc36d14765637\\output\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\Kwasimoto\\.android\\build-cache\\c3eefa010e06e6adea2c5e77976dc36d14765637\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\Kwasimoto\\.android\\build-cache\\c3eefa010e06e6adea2c5e77976dc36d14765637\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
+    }
+]

@@ -1,0 +1,182 @@
+[
+    {
+        "merged": "D:\\AndroidStudio\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\Kwasimoto\\.android\\build-cache\\c3eefa010e06e6adea2c5e77976dc36d14765637\\output\\res\\drawable-v21\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\barna\\Documents\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\ic_menu_share.xml",
+        "source": "C:\\Users\\barna\\Documents\\ODUSafe\\app\\src\\main\\res\\drawable-v21\\ic_menu_share.xml"
+    },
+    {
+        "merged": "C:\\Users\\Michael Blackwell\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\ic_menu_slideshow.xml",
+        "source": "C:\\Users\\Michael Blackwell\\ODUSafe\\app\\src\\main\\res\\drawable-v21\\ic_menu_slideshow.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\ic_menu_manage.xml",
+        "source": "D:\\AndroidStudio\\ODUSafe\\app\\src\\main\\res\\drawable-v21\\ic_menu_manage.xml"
+    },
+    {
+        "merged": "C:\\Users\\Michael Blackwell\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\ic_menu_send.xml",
+        "source": "C:\\Users\\Michael Blackwell\\ODUSafe\\app\\src\\main\\res\\drawable-v21\\ic_menu_send.xml"
+    },
+    {
+        "merged": "C:\\Users\\Michael Blackwell\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\avd_hide_password.xml",
+        "source": "C:\\Users\\Michael Blackwell\\.android\\build-cache\\44f801d3c86d39d6c86a27c40f0cb097ec3e87bc\\output\\res\\drawable-v21\\avd_hide_password.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\avd_show_password.xml",
+        "source": "C:\\Users\\Kwasimoto\\.android\\build-cache\\0139664ceaef0b32c34c4ff88a96811c69d8e50f\\output\\res\\drawable-v21\\avd_show_password.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\notification_action_background.xml",
+        "source": "C:\\Users\\Kwasimoto\\.android\\build-cache\\c3eefa010e06e6adea2c5e77976dc36d14765637\\output\\res\\drawable-v21\\notification_action_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\barna\\Documents\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\barna\\.android\\build-cache\\1aea65aa913827f0734f76ee9fd69a9611effe5b\\output\\res\\drawable-v21\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Michael Blackwell\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\Michael Blackwell\\.android\\build-cache\\ff8b80eb63ab778a034e6fb68dd4172cd1daed1f\\output\\res\\drawable-v21\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\barna\\Documents\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\avd_show_password.xml",
+        "source": "C:\\Users\\barna\\.android\\build-cache\\ca211ed3ca8060b55997b701315612f1666a0b50\\output\\res\\drawable-v21\\avd_show_password.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\oduicon.jpg",
+        "source": "D:\\AndroidStudio\\ODUSafe\\app\\src\\main\\res\\drawable-v21\\oduicon.jpg"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\design_password_eye.xml",
+        "source": "C:\\Users\\Kwasimoto\\.android\\build-cache\\0139664ceaef0b32c34c4ff88a96811c69d8e50f\\output\\res\\drawable-v21\\design_password_eye.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\ic_menu_gallery.xml",
+        "source": "D:\\AndroidStudio\\ODUSafe\\app\\src\\main\\res\\drawable-v21\\ic_menu_gallery.xml"
+    },
+    {
+        "merged": "C:\\Users\\Michael Blackwell\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\design_bottom_navigation_item_background.xml",
+        "source": "C:\\Users\\Michael Blackwell\\.android\\build-cache\\44f801d3c86d39d6c86a27c40f0cb097ec3e87bc\\output\\res\\drawable-v21\\design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\ic_menu_share.xml",
+        "source": "D:\\AndroidStudio\\ODUSafe\\app\\src\\main\\res\\drawable-v21\\ic_menu_share.xml"
+    },
+    {
+        "merged": "C:\\Users\\barna\\Documents\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\avd_hide_password.xml",
+        "source": "C:\\Users\\barna\\.android\\build-cache\\ca211ed3ca8060b55997b701315612f1666a0b50\\output\\res\\drawable-v21\\avd_hide_password.xml"
+    },
+    {
+        "merged": "C:\\Users\\barna\\Documents\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\design_bottom_navigation_item_background.xml",
+        "source": "C:\\Users\\barna\\.android\\build-cache\\ca211ed3ca8060b55997b701315612f1666a0b50\\output\\res\\drawable-v21\\design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Michael Blackwell\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\design_password_eye.xml",
+        "source": "C:\\Users\\Michael Blackwell\\.android\\build-cache\\44f801d3c86d39d6c86a27c40f0cb097ec3e87bc\\output\\res\\drawable-v21\\design_password_eye.xml"
+    },
+    {
+        "merged": "C:\\Users\\Michael Blackwell\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\oduicon.jpg",
+        "source": "C:\\Users\\Michael Blackwell\\ODUSafe\\app\\src\\main\\res\\drawable-v21\\oduicon.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Michael Blackwell\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\ic_menu_manage.xml",
+        "source": "C:\\Users\\Michael Blackwell\\ODUSafe\\app\\src\\main\\res\\drawable-v21\\ic_menu_manage.xml"
+    },
+    {
+        "merged": "C:\\Users\\barna\\Documents\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\design_password_eye.xml",
+        "source": "C:\\Users\\barna\\.android\\build-cache\\ca211ed3ca8060b55997b701315612f1666a0b50\\output\\res\\drawable-v21\\design_password_eye.xml"
+    },
+    {
+        "merged": "C:\\Users\\barna\\Documents\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_action_bar_item_background_material.xml",
+        "source": "C:\\Users\\barna\\.android\\build-cache\\1aea65aa913827f0734f76ee9fd69a9611effe5b\\output\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\avd_hide_password.xml",
+        "source": "C:\\Users\\Kwasimoto\\.android\\build-cache\\0139664ceaef0b32c34c4ff88a96811c69d8e50f\\output\\res\\drawable-v21\\avd_hide_password.xml"
+    },
+    {
+        "merged": "C:\\Users\\Michael Blackwell\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\avd_show_password.xml",
+        "source": "C:\\Users\\Michael Blackwell\\.android\\build-cache\\44f801d3c86d39d6c86a27c40f0cb097ec3e87bc\\output\\res\\drawable-v21\\avd_show_password.xml"
+    },
+    {
+        "merged": "C:\\Users\\barna\\Documents\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\oduicon.jpg",
+        "source": "C:\\Users\\barna\\Documents\\ODUSafe\\app\\src\\main\\res\\drawable-v21\\oduicon.jpg"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\design_bottom_navigation_item_background.xml",
+        "source": "C:\\Users\\Kwasimoto\\.android\\build-cache\\0139664ceaef0b32c34c4ff88a96811c69d8e50f\\output\\res\\drawable-v21\\design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\ic_menu_camera.xml",
+        "source": "D:\\AndroidStudio\\ODUSafe\\app\\src\\main\\res\\drawable-v21\\ic_menu_camera.xml"
+    },
+    {
+        "merged": "C:\\Users\\barna\\Documents\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\ic_menu_gallery.xml",
+        "source": "C:\\Users\\barna\\Documents\\ODUSafe\\app\\src\\main\\res\\drawable-v21\\ic_menu_gallery.xml"
+    },
+    {
+        "merged": "C:\\Users\\barna\\Documents\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\ic_menu_send.xml",
+        "source": "C:\\Users\\barna\\Documents\\ODUSafe\\app\\src\\main\\res\\drawable-v21\\ic_menu_send.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\Kwasimoto\\.android\\build-cache\\c3eefa010e06e6adea2c5e77976dc36d14765637\\output\\res\\drawable-v21\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\barna\\Documents\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\notification_action_background.xml",
+        "source": "C:\\Users\\barna\\.android\\build-cache\\1aea65aa913827f0734f76ee9fd69a9611effe5b\\output\\res\\drawable-v21\\notification_action_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\barna\\Documents\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\ic_menu_manage.xml",
+        "source": "C:\\Users\\barna\\Documents\\ODUSafe\\app\\src\\main\\res\\drawable-v21\\ic_menu_manage.xml"
+    },
+    {
+        "merged": "C:\\Users\\Michael Blackwell\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\Michael Blackwell\\.android\\build-cache\\ff8b80eb63ab778a034e6fb68dd4172cd1daed1f\\output\\res\\drawable-v21\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\barna\\Documents\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\ic_menu_camera.xml",
+        "source": "C:\\Users\\barna\\Documents\\ODUSafe\\app\\src\\main\\res\\drawable-v21\\ic_menu_camera.xml"
+    },
+    {
+        "merged": "C:\\Users\\barna\\Documents\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\ic_menu_slideshow.xml",
+        "source": "C:\\Users\\barna\\Documents\\ODUSafe\\app\\src\\main\\res\\drawable-v21\\ic_menu_slideshow.xml"
+    },
+    {
+        "merged": "C:\\Users\\barna\\Documents\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\barna\\.android\\build-cache\\1aea65aa913827f0734f76ee9fd69a9611effe5b\\output\\res\\drawable-v21\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Michael Blackwell\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\notification_action_background.xml",
+        "source": "C:\\Users\\Michael Blackwell\\.android\\build-cache\\ff8b80eb63ab778a034e6fb68dd4172cd1daed1f\\output\\res\\drawable-v21\\notification_action_background.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\ic_menu_send.xml",
+        "source": "D:\\AndroidStudio\\ODUSafe\\app\\src\\main\\res\\drawable-v21\\ic_menu_send.xml"
+    },
+    {
+        "merged": "C:\\Users\\Michael Blackwell\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_action_bar_item_background_material.xml",
+        "source": "C:\\Users\\Michael Blackwell\\.android\\build-cache\\ff8b80eb63ab778a034e6fb68dd4172cd1daed1f\\output\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Michael Blackwell\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\ic_menu_camera.xml",
+        "source": "C:\\Users\\Michael Blackwell\\ODUSafe\\app\\src\\main\\res\\drawable-v21\\ic_menu_camera.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_action_bar_item_background_material.xml",
+        "source": "C:\\Users\\Kwasimoto\\.android\\build-cache\\c3eefa010e06e6adea2c5e77976dc36d14765637\\output\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\ic_menu_slideshow.xml",
+        "source": "D:\\AndroidStudio\\ODUSafe\\app\\src\\main\\res\\drawable-v21\\ic_menu_slideshow.xml"
+    },
+    {
+        "merged": "C:\\Users\\Michael Blackwell\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\ic_menu_gallery.xml",
+        "source": "C:\\Users\\Michael Blackwell\\ODUSafe\\app\\src\\main\\res\\drawable-v21\\ic_menu_gallery.xml"
+    },
+    {
+        "merged": "C:\\Users\\Michael Blackwell\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\ic_menu_share.xml",
+        "source": "C:\\Users\\Michael Blackwell\\ODUSafe\\app\\src\\main\\res\\drawable-v21\\ic_menu_share.xml"
+    }
+]

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Michael Blackwell\.gradle\caches\modules-2\files-2.1\com.github.PhilJay\MPAndroidChart\v2.2.4\7abd1ecef320da6a7679b137083151401fe8bf43\MPAndroidChart-v2.2.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="7abd1ecef320da6a7679b137083151401fe8bf43">
+        <dex dex="C:\Users\Michael Blackwell\ODUSafe\app\build\intermediates\transforms\dex\debug\folders\1000\10\MPAndroidChart-v2.2.4_157f1f965d1d4b3e61f4320345d206d41bea3a32\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Michael Blackwell\ODUSafe\app\libs\jsoup-1.10.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="5df02f295714ac1b907d507dfea29a5a9f8f69ca">
+        <dex dex="C:\Users\Michael Blackwell\ODUSafe\app\build\intermediates\transforms\dex\debug\folders\1000\2\jsoup-1.10.3_e6c095fa51889217c05a80ebaa8d55932b4836d2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Michael Blackwell\ODUSafe\app\libs\itextpdf-5.5.12.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="ff7d78e2142e7b0c213b235a6980e34b896896b5">
+        <dex dex="C:\Users\Michael Blackwell\ODUSafe\app\build\intermediates\transforms\dex\debug\folders\1000\2\itextpdf-5.5.12_f86ec84f0a4d0aa742aaec3ac8b532f4d8f6e547\classes.dex" />
+    </item>
+
+</items>

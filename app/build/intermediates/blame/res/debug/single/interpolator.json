@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\barna\\Documents\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\interpolator\\mr_linear_out_slow_in.xml",
+        "source": "C:\\Users\\barna\\.android\\build-cache\\8d0a4105512e29679134bfcbd13979204c0293e4\\output\\res\\interpolator\\mr_linear_out_slow_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\Michael Blackwell\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\interpolator\\mr_linear_out_slow_in.xml",
+        "source": "C:\\Users\\Michael Blackwell\\.android\\build-cache\\1326288f4c952781499e6d7c1a727c081d5e73d8\\output\\res\\interpolator\\mr_linear_out_slow_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\barna\\Documents\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\interpolator\\mr_fast_out_slow_in.xml",
+        "source": "C:\\Users\\barna\\.android\\build-cache\\8d0a4105512e29679134bfcbd13979204c0293e4\\output\\res\\interpolator\\mr_fast_out_slow_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\Michael Blackwell\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\interpolator\\mr_fast_out_slow_in.xml",
+        "source": "C:\\Users\\Michael Blackwell\\.android\\build-cache\\1326288f4c952781499e6d7c1a727c081d5e73d8\\output\\res\\interpolator\\mr_fast_out_slow_in.xml"
+    }
+]

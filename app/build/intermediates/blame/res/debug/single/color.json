@@ -1,0 +1,314 @@
+[
+    {
+        "merged": "D:\\AndroidStudio\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\color\\common_google_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\Kwasimoto\\.android\\build-cache\\94010153b3d40e96363d6a95b5300f51660cbf90\\output\\res\\color\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_edittext.xml",
+        "source": "C:\\Users\\Kwasimoto\\.android\\build-cache\\c3eefa010e06e6adea2c5e77976dc36d14765637\\output\\res\\color\\abc_tint_edittext.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_switch_track.xml",
+        "source": "C:\\Users\\Kwasimoto\\.android\\build-cache\\c3eefa010e06e6adea2c5e77976dc36d14765637\\output\\res\\color\\abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "C:\\Users\\barna\\Documents\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_switch_thumb.xml",
+        "source": "C:\\Users\\barna\\.android\\build-cache\\1aea65aa913827f0734f76ee9fd69a9611effe5b\\output\\res\\color\\abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "C:\\Users\\Michael Blackwell\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_light.xml",
+        "source": "C:\\Users\\Michael Blackwell\\.android\\build-cache\\ff8b80eb63ab778a034e6fb68dd4172cd1daed1f\\output\\res\\color\\abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\color\\wallet_secondary_text_holo_dark.xml",
+        "source": "C:\\Users\\Kwasimoto\\.android\\build-cache\\da3a9e3c1372a39b3d72a3a6eeff8fc97b1c25fa\\output\\res\\color\\wallet_secondary_text_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Michael Blackwell\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_search_url_text.xml",
+        "source": "C:\\Users\\Michael Blackwell\\.android\\build-cache\\ff8b80eb63ab778a034e6fb68dd4172cd1daed1f\\output\\res\\color\\abc_search_url_text.xml"
+    },
+    {
+        "merged": "C:\\Users\\Michael Blackwell\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_seek_thumb.xml",
+        "source": "C:\\Users\\Michael Blackwell\\.android\\build-cache\\ff8b80eb63ab778a034e6fb68dd4172cd1daed1f\\output\\res\\color\\abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "C:\\Users\\Michael Blackwell\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_spinner.xml",
+        "source": "C:\\Users\\Michael Blackwell\\.android\\build-cache\\ff8b80eb63ab778a034e6fb68dd4172cd1daed1f\\output\\res\\color\\abc_tint_spinner.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_dark.xml",
+        "source": "C:\\Users\\Kwasimoto\\.android\\build-cache\\c3eefa010e06e6adea2c5e77976dc36d14765637\\output\\res\\color\\switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_btn_colored_borderless_text_material.xml",
+        "source": "C:\\Users\\Kwasimoto\\.android\\build-cache\\c3eefa010e06e6adea2c5e77976dc36d14765637\\output\\res\\color\\abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Michael Blackwell\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_light.xml",
+        "source": "C:\\Users\\Michael Blackwell\\.android\\build-cache\\ff8b80eb63ab778a034e6fb68dd4172cd1daed1f\\output\\res\\color\\abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\barna\\Documents\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_btn_checkable.xml",
+        "source": "C:\\Users\\barna\\.android\\build-cache\\1aea65aa913827f0734f76ee9fd69a9611effe5b\\output\\res\\color\\abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "C:\\Users\\barna\\Documents\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\color\\common_google_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\barna\\.android\\build-cache\\24447a32cc59944792f53ddfa03290fbd755bf83\\output\\res\\color\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\barna\\Documents\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\color\\wallet_secondary_text_holo_dark.xml",
+        "source": "C:\\Users\\barna\\.android\\build-cache\\ac3f4d2c32f92b2804c8751cca5e305c6b1ce259\\output\\res\\color\\wallet_secondary_text_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\barna\\Documents\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_light.xml",
+        "source": "C:\\Users\\barna\\.android\\build-cache\\1aea65aa913827f0734f76ee9fd69a9611effe5b\\output\\res\\color\\abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\color\\common_google_signin_btn_text_light.xml",
+        "source": "C:\\Users\\Kwasimoto\\.android\\build-cache\\94010153b3d40e96363d6a95b5300f51660cbf90\\output\\res\\color\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\color\\design_tint_password_toggle.xml",
+        "source": "C:\\Users\\Kwasimoto\\.android\\build-cache\\0139664ceaef0b32c34c4ff88a96811c69d8e50f\\output\\res\\color\\design_tint_password_toggle.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\color\\design_error.xml",
+        "source": "C:\\Users\\Kwasimoto\\.android\\build-cache\\0139664ceaef0b32c34c4ff88a96811c69d8e50f\\output\\res\\color\\design_error.xml"
+    },
+    {
+        "merged": "C:\\Users\\Michael Blackwell\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\color\\design_tint_password_toggle.xml",
+        "source": "C:\\Users\\Michael Blackwell\\.android\\build-cache\\44f801d3c86d39d6c86a27c40f0cb097ec3e87bc\\output\\res\\color\\design_tint_password_toggle.xml"
+    },
+    {
+        "merged": "C:\\Users\\barna\\Documents\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_seek_thumb.xml",
+        "source": "C:\\Users\\barna\\.android\\build-cache\\1aea65aa913827f0734f76ee9fd69a9611effe5b\\output\\res\\color\\abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "C:\\Users\\barna\\Documents\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_search_url_text.xml",
+        "source": "C:\\Users\\barna\\.android\\build-cache\\1aea65aa913827f0734f76ee9fd69a9611effe5b\\output\\res\\color\\abc_search_url_text.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_light.xml",
+        "source": "C:\\Users\\Kwasimoto\\.android\\build-cache\\c3eefa010e06e6adea2c5e77976dc36d14765637\\output\\res\\color\\abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Michael Blackwell\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_switch_thumb.xml",
+        "source": "C:\\Users\\Michael Blackwell\\.android\\build-cache\\ff8b80eb63ab778a034e6fb68dd4172cd1daed1f\\output\\res\\color\\abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_dark.xml",
+        "source": "C:\\Users\\Kwasimoto\\.android\\build-cache\\c3eefa010e06e6adea2c5e77976dc36d14765637\\output\\res\\color\\abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Michael Blackwell\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\color\\wallet_primary_text_holo_light.xml",
+        "source": "C:\\Users\\Michael Blackwell\\.android\\build-cache\\aea3ffffe3285e5fefdf5e3941d4d6578c015ac4\\output\\res\\color\\wallet_primary_text_holo_light.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_dark.xml",
+        "source": "C:\\Users\\Kwasimoto\\.android\\build-cache\\c3eefa010e06e6adea2c5e77976dc36d14765637\\output\\res\\color\\abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\barna\\Documents\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\color\\common_google_signin_btn_text_light.xml",
+        "source": "C:\\Users\\barna\\.android\\build-cache\\24447a32cc59944792f53ddfa03290fbd755bf83\\output\\res\\color\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_light.xml",
+        "source": "C:\\Users\\Kwasimoto\\.android\\build-cache\\c3eefa010e06e6adea2c5e77976dc36d14765637\\output\\res\\color\\abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Michael Blackwell\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_light.xml",
+        "source": "C:\\Users\\Michael Blackwell\\.android\\build-cache\\ff8b80eb63ab778a034e6fb68dd4172cd1daed1f\\output\\res\\color\\switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Michael Blackwell\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_dark.xml",
+        "source": "C:\\Users\\Michael Blackwell\\.android\\build-cache\\ff8b80eb63ab778a034e6fb68dd4172cd1daed1f\\output\\res\\color\\abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Michael Blackwell\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_edittext.xml",
+        "source": "C:\\Users\\Michael Blackwell\\.android\\build-cache\\ff8b80eb63ab778a034e6fb68dd4172cd1daed1f\\output\\res\\color\\abc_tint_edittext.xml"
+    },
+    {
+        "merged": "C:\\Users\\barna\\Documents\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_dark.xml",
+        "source": "C:\\Users\\barna\\.android\\build-cache\\1aea65aa913827f0734f76ee9fd69a9611effe5b\\output\\res\\color\\switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\barna\\Documents\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\color\\design_tint_password_toggle.xml",
+        "source": "C:\\Users\\barna\\.android\\build-cache\\ca211ed3ca8060b55997b701315612f1666a0b50\\output\\res\\color\\design_tint_password_toggle.xml"
+    },
+    {
+        "merged": "C:\\Users\\Michael Blackwell\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_btn_checkable.xml",
+        "source": "C:\\Users\\Michael Blackwell\\.android\\build-cache\\ff8b80eb63ab778a034e6fb68dd4172cd1daed1f\\output\\res\\color\\abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "C:\\Users\\Michael Blackwell\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_default.xml",
+        "source": "C:\\Users\\Michael Blackwell\\.android\\build-cache\\ff8b80eb63ab778a034e6fb68dd4172cd1daed1f\\output\\res\\color\\abc_tint_default.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_hint_foreground_material_light.xml",
+        "source": "C:\\Users\\Kwasimoto\\.android\\build-cache\\c3eefa010e06e6adea2c5e77976dc36d14765637\\output\\res\\color\\abc_hint_foreground_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\barna\\Documents\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_dark.xml",
+        "source": "C:\\Users\\barna\\.android\\build-cache\\1aea65aa913827f0734f76ee9fd69a9611effe5b\\output\\res\\color\\abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_light.xml",
+        "source": "C:\\Users\\Kwasimoto\\.android\\build-cache\\c3eefa010e06e6adea2c5e77976dc36d14765637\\output\\res\\color\\abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Michael Blackwell\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\color\\design_error.xml",
+        "source": "C:\\Users\\Michael Blackwell\\.android\\build-cache\\44f801d3c86d39d6c86a27c40f0cb097ec3e87bc\\output\\res\\color\\design_error.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_btn_checkable.xml",
+        "source": "C:\\Users\\Kwasimoto\\.android\\build-cache\\c3eefa010e06e6adea2c5e77976dc36d14765637\\output\\res\\color\\abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "C:\\Users\\Michael Blackwell\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_dark.xml",
+        "source": "C:\\Users\\Michael Blackwell\\.android\\build-cache\\ff8b80eb63ab778a034e6fb68dd4172cd1daed1f\\output\\res\\color\\abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Michael Blackwell\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_switch_track.xml",
+        "source": "C:\\Users\\Michael Blackwell\\.android\\build-cache\\ff8b80eb63ab778a034e6fb68dd4172cd1daed1f\\output\\res\\color\\abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "C:\\Users\\barna\\Documents\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_btn_colored_borderless_text_material.xml",
+        "source": "C:\\Users\\barna\\.android\\build-cache\\1aea65aa913827f0734f76ee9fd69a9611effe5b\\output\\res\\color\\abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\barna\\Documents\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_switch_track.xml",
+        "source": "C:\\Users\\barna\\.android\\build-cache\\1aea65aa913827f0734f76ee9fd69a9611effe5b\\output\\res\\color\\abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "C:\\Users\\Michael Blackwell\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\color\\common_google_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\Michael Blackwell\\.android\\build-cache\\fe8d455a78fe8b009583f766328822168ea1bdd7\\output\\res\\color\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_switch_thumb.xml",
+        "source": "C:\\Users\\Kwasimoto\\.android\\build-cache\\c3eefa010e06e6adea2c5e77976dc36d14765637\\output\\res\\color\\abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "C:\\Users\\barna\\Documents\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_spinner.xml",
+        "source": "C:\\Users\\barna\\.android\\build-cache\\1aea65aa913827f0734f76ee9fd69a9611effe5b\\output\\res\\color\\abc_tint_spinner.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_btn_colored_text_material.xml",
+        "source": "C:\\Users\\Kwasimoto\\.android\\build-cache\\c3eefa010e06e6adea2c5e77976dc36d14765637\\output\\res\\color\\abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Michael Blackwell\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\color\\wallet_secondary_text_holo_dark.xml",
+        "source": "C:\\Users\\Michael Blackwell\\.android\\build-cache\\aea3ffffe3285e5fefdf5e3941d4d6578c015ac4\\output\\res\\color\\wallet_secondary_text_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\barna\\Documents\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_hint_foreground_material_light.xml",
+        "source": "C:\\Users\\barna\\.android\\build-cache\\1aea65aa913827f0734f76ee9fd69a9611effe5b\\output\\res\\color\\abc_hint_foreground_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\barna\\Documents\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\color\\wallet_primary_text_holo_light.xml",
+        "source": "C:\\Users\\barna\\.android\\build-cache\\ac3f4d2c32f92b2804c8751cca5e305c6b1ce259\\output\\res\\color\\wallet_primary_text_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\barna\\Documents\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_dark.xml",
+        "source": "C:\\Users\\barna\\.android\\build-cache\\1aea65aa913827f0734f76ee9fd69a9611effe5b\\output\\res\\color\\abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\barna\\Documents\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_dark.xml",
+        "source": "C:\\Users\\barna\\.android\\build-cache\\1aea65aa913827f0734f76ee9fd69a9611effe5b\\output\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\barna\\Documents\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_light.xml",
+        "source": "C:\\Users\\barna\\.android\\build-cache\\1aea65aa913827f0734f76ee9fd69a9611effe5b\\output\\res\\color\\abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\barna\\Documents\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_edittext.xml",
+        "source": "C:\\Users\\barna\\.android\\build-cache\\1aea65aa913827f0734f76ee9fd69a9611effe5b\\output\\res\\color\\abc_tint_edittext.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_light.xml",
+        "source": "C:\\Users\\Kwasimoto\\.android\\build-cache\\c3eefa010e06e6adea2c5e77976dc36d14765637\\output\\res\\color\\switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Michael Blackwell\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_btn_colored_borderless_text_material.xml",
+        "source": "C:\\Users\\Michael Blackwell\\.android\\build-cache\\ff8b80eb63ab778a034e6fb68dd4172cd1daed1f\\output\\res\\color\\abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Michael Blackwell\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_dark.xml",
+        "source": "C:\\Users\\Michael Blackwell\\.android\\build-cache\\ff8b80eb63ab778a034e6fb68dd4172cd1daed1f\\output\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Michael Blackwell\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\color\\common_google_signin_btn_text_light.xml",
+        "source": "C:\\Users\\Michael Blackwell\\.android\\build-cache\\fe8d455a78fe8b009583f766328822168ea1bdd7\\output\\res\\color\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_dark.xml",
+        "source": "C:\\Users\\Kwasimoto\\.android\\build-cache\\c3eefa010e06e6adea2c5e77976dc36d14765637\\output\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\color\\wallet_primary_text_holo_light.xml",
+        "source": "C:\\Users\\Kwasimoto\\.android\\build-cache\\da3a9e3c1372a39b3d72a3a6eeff8fc97b1c25fa\\output\\res\\color\\wallet_primary_text_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\barna\\Documents\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_default.xml",
+        "source": "C:\\Users\\barna\\.android\\build-cache\\1aea65aa913827f0734f76ee9fd69a9611effe5b\\output\\res\\color\\abc_tint_default.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_seek_thumb.xml",
+        "source": "C:\\Users\\Kwasimoto\\.android\\build-cache\\c3eefa010e06e6adea2c5e77976dc36d14765637\\output\\res\\color\\abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_search_url_text.xml",
+        "source": "C:\\Users\\Kwasimoto\\.android\\build-cache\\c3eefa010e06e6adea2c5e77976dc36d14765637\\output\\res\\color\\abc_search_url_text.xml"
+    },
+    {
+        "merged": "C:\\Users\\barna\\Documents\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_hint_foreground_material_dark.xml",
+        "source": "C:\\Users\\barna\\.android\\build-cache\\1aea65aa913827f0734f76ee9fd69a9611effe5b\\output\\res\\color\\abc_hint_foreground_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\barna\\Documents\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_light.xml",
+        "source": "C:\\Users\\barna\\.android\\build-cache\\1aea65aa913827f0734f76ee9fd69a9611effe5b\\output\\res\\color\\abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Michael Blackwell\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_light.xml",
+        "source": "C:\\Users\\Michael Blackwell\\.android\\build-cache\\ff8b80eb63ab778a034e6fb68dd4172cd1daed1f\\output\\res\\color\\abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Michael Blackwell\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_hint_foreground_material_dark.xml",
+        "source": "C:\\Users\\Michael Blackwell\\.android\\build-cache\\ff8b80eb63ab778a034e6fb68dd4172cd1daed1f\\output\\res\\color\\abc_hint_foreground_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\barna\\Documents\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_light.xml",
+        "source": "C:\\Users\\barna\\.android\\build-cache\\1aea65aa913827f0734f76ee9fd69a9611effe5b\\output\\res\\color\\switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_default.xml",
+        "source": "C:\\Users\\Kwasimoto\\.android\\build-cache\\c3eefa010e06e6adea2c5e77976dc36d14765637\\output\\res\\color\\abc_tint_default.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_spinner.xml",
+        "source": "C:\\Users\\Kwasimoto\\.android\\build-cache\\c3eefa010e06e6adea2c5e77976dc36d14765637\\output\\res\\color\\abc_tint_spinner.xml"
+    },
+    {
+        "merged": "C:\\Users\\Michael Blackwell\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_hint_foreground_material_light.xml",
+        "source": "C:\\Users\\Michael Blackwell\\.android\\build-cache\\ff8b80eb63ab778a034e6fb68dd4172cd1daed1f\\output\\res\\color\\abc_hint_foreground_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Michael Blackwell\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_dark.xml",
+        "source": "C:\\Users\\Michael Blackwell\\.android\\build-cache\\ff8b80eb63ab778a034e6fb68dd4172cd1daed1f\\output\\res\\color\\switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\barna\\Documents\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\color\\design_error.xml",
+        "source": "C:\\Users\\barna\\.android\\build-cache\\ca211ed3ca8060b55997b701315612f1666a0b50\\output\\res\\color\\design_error.xml"
+    },
+    {
+        "merged": "C:\\Users\\barna\\Documents\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_btn_colored_text_material.xml",
+        "source": "C:\\Users\\barna\\.android\\build-cache\\1aea65aa913827f0734f76ee9fd69a9611effe5b\\output\\res\\color\\abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Michael Blackwell\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_btn_colored_text_material.xml",
+        "source": "C:\\Users\\Michael Blackwell\\.android\\build-cache\\ff8b80eb63ab778a034e6fb68dd4172cd1daed1f\\output\\res\\color\\abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\ODUSafe\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_hint_foreground_material_dark.xml",
+        "source": "C:\\Users\\Kwasimoto\\.android\\build-cache\\c3eefa010e06e6adea2c5e77976dc36d14765637\\output\\res\\color\\abc_hint_foreground_material_dark.xml"
+    }
+]
